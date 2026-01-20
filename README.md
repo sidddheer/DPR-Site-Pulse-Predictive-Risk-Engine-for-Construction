@@ -1,5 +1,5 @@
 # DPR-Site-Pulse-Predictive-Risk-Engine-for-Construction
-![Dashboard Preview]([INSERT_YOUR_DASHBOARD_SCREENSHOT_HERE.png])
+![Dashboard Preview]([Dashboard_DPR.png])
 *> A predictive analytics dashboard that quantifies the "Human Factor" in construction safety and schedule risk.*
 
 ---
