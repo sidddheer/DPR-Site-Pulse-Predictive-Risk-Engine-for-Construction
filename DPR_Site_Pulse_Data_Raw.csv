@@ -1,0 +1,1826 @@
+Date,Crew_ID,Crew_Count,Hours_Worked,Units_Installed,Fatigue_Score,Superintendent_Notes,Safety_Incident,Rework_Cost
+2024-01-01,Drywall-A,7,9,120,0,"Team is in good rhythm, no safety issues.",0,0
+2024-01-02,Drywall-A,5,8,108,0,"Great weather, slab pour went perfectly.",0,0
+2024-01-03,Drywall-A,7,9,100,0,Routine install in Zone B.,0,0
+2024-01-04,Drywall-A,8,9,106,0,"Productive day, finished Zone A early.",0,0
+2024-01-05,Drywall-A,8,9,100,0,"Productive day, finished Zone A early.",0,0
+2024-01-06,Drywall-A,5,8,93,0,"Safety talk held this morning, no incidents.",0,0
+2024-01-07,Drywall-A,7,9,106,0,"Productive day, finished Zone A early.",0,0
+2024-01-08,Drywall-A,8,8,116,0,"Team is in good rhythm, no safety issues.",0,0
+2024-01-09,Drywall-A,5,10,47,2,"Rain delay caused slip hazards, slowed down install.",1,0
+2024-01-10,Drywall-A,5,9,114,1,"Team is in good rhythm, no safety issues.",0,0
+2024-01-11,Drywall-A,6,10,81,1,"Weather overcast, work continuing.",0,0
+2024-01-12,Drywall-A,6,14,50,3,"Rain delay caused slip hazards, slowed down install.",0,0
+2024-01-13,Drywall-A,8,10,97,3,"Crew size normal, steady pace.",0,0
+2024-01-14,Drywall-A,5,9,98,3,"Standard progress, nothing to report.",0,0
+2024-01-15,Drywall-A,8,11,47,5,"Rework needed on wall framing, incorrect specs.",0,0
+2024-01-16,Drywall-A,5,9,84,5,"Safety talk held this morning, no incidents.",0,0
+2024-01-17,Drywall-A,6,9,109,4,"Crew moving fast, materials arrived on time.",0,0
+2024-01-18,Drywall-A,8,9,105,3,"Team is in good rhythm, no safety issues.",0,0
+2024-01-19,Drywall-A,5,8,110,2,"Great weather, slab pour went perfectly.",0,0
+2024-01-20,Drywall-A,7,8,96,2,"Safety talk held this morning, no incidents.",0,0
+2024-01-21,Drywall-A,8,8,100,2,"Weather overcast, work continuing.",0,0
+2024-01-22,Drywall-A,8,13,42,4,Argument with sub trade over laydown area.,1,1599
+2024-01-23,Drywall-A,6,11,57,6,"Rework needed on wall framing, incorrect specs.",0,0
+2024-01-24,Drywall-A,6,14,69,8,"Rework needed on wall framing, incorrect specs.",1,1679
+2024-01-25,Drywall-A,6,13,47,10,"Material delivery late, caused bottleneck.",1,0
+2024-01-26,Drywall-A,8,9,84,10,"Standard progress, nothing to report.",0,0
+2024-01-27,Drywall-A,8,9,101,9,"Ahead of schedule, inspection passed.",0,0
+2024-01-28,Drywall-A,6,9,112,8,"Crew moving fast, materials arrived on time.",0,0
+2024-01-29,Drywall-A,8,10,82,8,"Crew size normal, steady pace.",0,0
+2024-01-30,Drywall-A,8,8,117,7,"Ahead of schedule, inspection passed.",0,0
+2024-01-31,Drywall-A,5,9,112,6,"Team is in good rhythm, no safety issues.",0,0
+2024-02-01,Drywall-A,8,8,99,6,"Crew size normal, steady pace.",0,0
+2024-02-02,Drywall-A,6,8,89,6,"Safety talk held this morning, no incidents.",0,0
+2024-02-03,Drywall-A,7,10,65,8,Argument with sub trade over laydown area.,0,0
+2024-02-04,Drywall-A,7,8,102,7,"Great weather, slab pour went perfectly.",0,0
+2024-02-05,Drywall-A,5,9,88,7,"Standard progress, nothing to report.",0,0
+2024-02-06,Drywall-A,7,8,90,7,"Standard progress, nothing to report.",0,0
+2024-02-07,Drywall-A,8,13,52,9,"Rework needed on wall framing, incorrect specs.",1,0
+2024-02-08,Drywall-A,6,9,116,8,"Crew moving fast, materials arrived on time.",0,0
+2024-02-09,Drywall-A,6,8,102,7,"Team is in good rhythm, no safety issues.",0,0
+2024-02-10,Drywall-A,7,9,100,6,"Great weather, slab pour went perfectly.",0,0
+2024-02-11,Drywall-A,5,12,45,8,"Confusion on drawings for HVAC, had to stop work.",0,3937
+2024-02-12,Drywall-A,5,9,82,8,"Safety talk held this morning, no incidents.",0,0
+2024-02-13,Drywall-A,7,12,49,10,"Waiting on RFI response, crew standing around.",0,3721
+2024-02-14,Drywall-A,7,10,61,12,"Waiting on RFI response, crew standing around.",0,3927
+2024-02-15,Drywall-A,8,9,112,11,"Crew moving fast, materials arrived on time.",0,0
+2024-02-16,Drywall-A,7,10,61,13,"Crew exhausted from overtime, morale is low.",1,4469
+2024-02-17,Drywall-A,8,9,107,12,"Productive day, finished Zone A early.",0,0
+2024-02-18,Drywall-A,5,10,96,12,"Safety talk held this morning, no incidents.",0,0
+2024-02-19,Drywall-A,6,9,90,12,"Crew size normal, steady pace.",0,0
+2024-02-20,Drywall-A,7,8,108,11,"Crew moving fast, materials arrived on time.",0,0
+2024-02-21,Drywall-A,5,8,109,10,"Great weather, slab pour went perfectly.",0,0
+2024-02-22,Drywall-A,7,8,101,9,"Productive day, finished Zone A early.",0,0
+2024-02-23,Drywall-A,5,8,119,8,"Crew moving fast, materials arrived on time.",0,0
+2024-02-24,Drywall-A,6,8,107,7,"Great weather, slab pour went perfectly.",0,0
+2024-02-25,Drywall-A,5,13,59,9,"Rain delay caused slip hazards, slowed down install.",0,669
+2024-02-26,Drywall-A,8,10,100,9,"Safety talk held this morning, no incidents.",0,0
+2024-02-27,Drywall-A,8,9,103,8,"Ahead of schedule, inspection passed.",0,0
+2024-02-28,Drywall-A,5,9,112,7,"Productive day, finished Zone A early.",0,0
+2024-02-29,Drywall-A,6,9,90,7,"Weather overcast, work continuing.",0,0
+2024-03-01,Drywall-A,7,9,93,7,Routine install in Zone B.,0,0
+2024-03-02,Drywall-A,6,9,114,6,"Ahead of schedule, inspection passed.",0,0
+2024-03-03,Drywall-A,5,9,113,5,"Crew moving fast, materials arrived on time.",0,0
+2024-03-04,Drywall-A,8,9,95,5,"Weather overcast, work continuing.",0,0
+2024-03-05,Drywall-A,5,9,97,5,"Standard progress, nothing to report.",0,0
+2024-03-06,Drywall-A,5,9,104,4,"Crew moving fast, materials arrived on time.",0,0
+2024-03-07,Drywall-A,6,9,111,3,"Great weather, slab pour went perfectly.",0,0
+2024-03-08,Drywall-A,8,9,104,2,"Crew moving fast, materials arrived on time.",0,0
+2024-03-09,Drywall-A,5,9,117,1,"Crew moving fast, materials arrived on time.",0,0
+2024-03-10,Drywall-A,6,9,92,1,Routine install in Zone B.,0,0
+2024-03-11,Drywall-A,5,8,119,0,"Crew moving fast, materials arrived on time.",0,0
+2024-03-12,Drywall-A,5,13,47,2,"Material delivery late, caused bottleneck.",0,740
+2024-03-13,Drywall-A,8,8,109,1,"Productive day, finished Zone A early.",0,0
+2024-03-14,Drywall-A,7,9,114,0,"Productive day, finished Zone A early.",0,0
+2024-03-15,Drywall-A,6,10,98,0,"Standard progress, nothing to report.",0,0
+2024-03-16,Drywall-A,8,8,116,0,"Crew moving fast, materials arrived on time.",0,0
+2024-03-17,Drywall-A,6,8,104,0,"Productive day, finished Zone A early.",0,0
+2024-03-18,Drywall-A,5,8,111,0,"Productive day, finished Zone A early.",0,0
+2024-03-19,Drywall-A,6,10,87,0,"Weather overcast, work continuing.",0,0
+2024-03-20,Drywall-A,5,9,111,0,"Ahead of schedule, inspection passed.",0,0
+2024-03-21,Drywall-A,6,8,119,0,"Team is in good rhythm, no safety issues.",0,0
+2024-03-22,Drywall-A,7,9,98,0,Routine install in Zone B.,0,0
+2024-03-23,Drywall-A,8,9,99,0,"Standard progress, nothing to report.",0,0
+2024-03-24,Drywall-A,5,8,118,0,"Ahead of schedule, inspection passed.",0,0
+2024-03-25,Drywall-A,8,8,85,0,"Weather overcast, work continuing.",0,0
+2024-03-26,Drywall-A,7,9,107,0,"Ahead of schedule, inspection passed.",0,0
+2024-03-27,Drywall-A,8,9,102,0,"Ahead of schedule, inspection passed.",0,0
+2024-03-28,Drywall-A,8,8,112,0,"Team is in good rhythm, no safety issues.",0,0
+2024-03-29,Drywall-A,6,8,110,0,"Great weather, slab pour went perfectly.",0,0
+2024-03-30,Drywall-A,5,8,106,0,"Ahead of schedule, inspection passed.",0,0
+2024-03-31,Drywall-A,6,8,98,0,"Crew size normal, steady pace.",0,0
+2024-04-01,Drywall-A,5,10,85,0,"Crew size normal, steady pace.",0,0
+2024-04-02,Drywall-A,6,10,92,0,"Weather overcast, work continuing.",0,0
+2024-04-03,Drywall-A,7,8,117,0,"Crew moving fast, materials arrived on time.",0,0
+2024-04-04,Drywall-A,8,8,101,0,"Productive day, finished Zone A early.",0,0
+2024-04-05,Drywall-A,6,10,95,0,"Weather overcast, work continuing.",0,0
+2024-04-06,Drywall-A,5,10,95,0,"Crew size normal, steady pace.",0,0
+2024-04-07,Drywall-A,7,10,97,0,"Weather overcast, work continuing.",0,0
+2024-04-08,Drywall-A,5,9,109,0,"Productive day, finished Zone A early.",0,0
+2024-04-09,Drywall-A,6,9,108,0,"Team is in good rhythm, no safety issues.",0,0
+2024-04-10,Drywall-A,7,9,108,0,"Ahead of schedule, inspection passed.",0,0
+2024-04-11,Drywall-A,8,9,104,0,"Great weather, slab pour went perfectly.",0,0
+2024-04-12,Drywall-A,6,9,94,0,Routine install in Zone B.,0,0
+2024-04-13,Drywall-A,5,9,120,0,"Ahead of schedule, inspection passed.",0,0
+2024-04-14,Drywall-A,5,10,56,2,"Crew exhausted from overtime, morale is low.",0,0
+2024-04-15,Drywall-A,8,10,88,2,"Safety talk held this morning, no incidents.",0,0
+2024-04-16,Drywall-A,8,8,104,1,"Team is in good rhythm, no safety issues.",0,0
+2024-04-17,Drywall-A,5,9,94,1,"Weather overcast, work continuing.",0,0
+2024-04-18,Drywall-A,7,9,93,1,"Safety talk held this morning, no incidents.",0,0
+2024-04-19,Drywall-A,5,8,93,1,Routine install in Zone B.,0,0
+2024-04-20,Drywall-A,8,8,86,1,"Weather overcast, work continuing.",0,0
+2024-04-21,Drywall-A,6,9,103,0,"Ahead of schedule, inspection passed.",0,0
+2024-04-22,Drywall-A,6,8,109,0,"Team is in good rhythm, no safety issues.",0,0
+2024-04-23,Drywall-A,5,10,88,0,"Weather overcast, work continuing.",0,0
+2024-04-24,Drywall-A,6,8,116,0,"Great weather, slab pour went perfectly.",0,0
+2024-04-25,Drywall-A,6,8,109,0,"Productive day, finished Zone A early.",0,0
+2024-04-26,Drywall-A,8,13,69,2,"Material delivery late, caused bottleneck.",0,4808
+2024-04-27,Drywall-A,5,10,44,4,Argument with sub trade over laydown area.,0,2018
+2024-04-28,Drywall-A,6,12,65,6,"Material delivery late, caused bottleneck.",0,0
+2024-04-29,Drywall-A,8,9,102,5,"Productive day, finished Zone A early.",0,0
+2024-04-30,Drywall-A,6,8,101,4,"Team is in good rhythm, no safety issues.",0,0
+2024-05-01,Drywall-A,8,11,52,6,"Rework needed on wall framing, incorrect specs.",0,0
+2024-05-02,Drywall-A,5,9,101,5,"Crew moving fast, materials arrived on time.",0,0
+2024-05-03,Drywall-A,6,8,113,4,"Ahead of schedule, inspection passed.",0,0
+2024-05-04,Drywall-A,7,11,57,6,"Waiting on RFI response, crew standing around.",0,0
+2024-05-05,Drywall-A,5,8,116,5,"Crew moving fast, materials arrived on time.",0,0
+2024-05-06,Drywall-A,5,9,119,4,"Productive day, finished Zone A early.",0,0
+2024-05-07,Drywall-A,5,9,112,3,"Great weather, slab pour went perfectly.",0,0
+2024-05-08,Drywall-A,6,8,85,3,"Standard progress, nothing to report.",0,0
+2024-05-09,Drywall-A,7,10,81,3,"Crew size normal, steady pace.",0,0
+2024-05-10,Drywall-A,6,8,92,3,"Weather overcast, work continuing.",0,0
+2024-05-11,Drywall-A,7,13,54,5,"Crew exhausted from overtime, morale is low.",0,4515
+2024-05-12,Drywall-A,5,9,113,4,"Ahead of schedule, inspection passed.",0,0
+2024-05-13,Drywall-A,7,13,66,6,"Waiting on RFI response, crew standing around.",0,527
+2024-05-14,Drywall-A,6,8,108,5,"Ahead of schedule, inspection passed.",0,0
+2024-05-15,Drywall-A,7,9,113,4,"Ahead of schedule, inspection passed.",0,0
+2024-05-16,Drywall-A,7,13,62,6,"Rework needed on wall framing, incorrect specs.",0,0
+2024-05-17,Drywall-A,7,12,53,8,"Rain delay caused slip hazards, slowed down install.",0,0
+2024-05-18,Drywall-A,7,9,113,7,"Crew moving fast, materials arrived on time.",0,0
+2024-05-19,Drywall-A,7,9,104,6,"Productive day, finished Zone A early.",0,0
+2024-05-20,Drywall-A,5,10,83,6,"Weather overcast, work continuing.",0,0
+2024-05-21,Drywall-A,8,8,94,6,"Weather overcast, work continuing.",0,0
+2024-05-22,Drywall-A,5,8,106,5,"Great weather, slab pour went perfectly.",0,0
+2024-05-23,Drywall-A,5,10,90,5,"Standard progress, nothing to report.",0,0
+2024-05-24,Drywall-A,7,9,108,4,"Productive day, finished Zone A early.",0,0
+2024-05-25,Drywall-A,8,9,94,4,"Safety talk held this morning, no incidents.",0,0
+2024-05-26,Drywall-A,5,8,101,3,"Team is in good rhythm, no safety issues.",0,0
+2024-05-27,Drywall-A,8,8,87,3,Routine install in Zone B.,0,0
+2024-05-28,Drywall-A,8,11,68,5,"Waiting on RFI response, crew standing around.",0,0
+2024-05-29,Drywall-A,8,8,117,4,"Crew moving fast, materials arrived on time.",0,0
+2024-05-30,Drywall-A,7,10,48,6,"Rain delay caused slip hazards, slowed down install.",1,2526
+2024-05-31,Drywall-A,5,12,41,8,"Rework needed on wall framing, incorrect specs.",0,2098
+2024-06-01,Drywall-A,7,10,80,8,"Standard progress, nothing to report.",0,0
+2024-06-02,Drywall-A,7,8,114,7,"Ahead of schedule, inspection passed.",0,0
+2024-06-03,Drywall-A,5,9,111,6,"Team is in good rhythm, no safety issues.",0,0
+2024-06-04,Drywall-A,8,8,114,5,"Productive day, finished Zone A early.",0,0
+2024-06-05,Drywall-A,6,8,106,4,"Crew moving fast, materials arrived on time.",0,0
+2024-06-06,Drywall-A,7,9,118,3,"Crew moving fast, materials arrived on time.",0,0
+2024-06-07,Drywall-A,7,9,102,2,"Productive day, finished Zone A early.",0,0
+2024-06-08,Drywall-A,7,9,100,1,"Ahead of schedule, inspection passed.",0,0
+2024-06-09,Drywall-A,6,9,101,0,"Productive day, finished Zone A early.",0,0
+2024-06-10,Drywall-A,8,8,119,0,"Crew moving fast, materials arrived on time.",0,0
+2024-06-11,Drywall-A,8,9,111,0,"Ahead of schedule, inspection passed.",0,0
+2024-06-12,Drywall-A,7,9,82,0,Routine install in Zone B.,0,0
+2024-06-13,Drywall-A,8,9,101,0,"Team is in good rhythm, no safety issues.",0,0
+2024-06-14,Drywall-A,8,8,119,0,"Productive day, finished Zone A early.",0,0
+2024-06-15,Drywall-A,6,10,67,2,"Confusion on drawings for HVAC, had to stop work.",0,500
+2024-06-16,Drywall-A,5,10,58,4,"Rework needed on wall framing, incorrect specs.",1,0
+2024-06-17,Drywall-A,6,8,105,3,"Ahead of schedule, inspection passed.",0,0
+2024-06-18,Drywall-A,7,10,53,5,"Confusion on drawings for HVAC, had to stop work.",0,556
+2024-06-19,Drywall-A,5,11,62,7,"Rework needed on wall framing, incorrect specs.",1,0
+2024-06-20,Drywall-A,7,8,114,6,"Productive day, finished Zone A early.",0,0
+2024-06-21,Drywall-A,7,8,100,5,"Productive day, finished Zone A early.",0,0
+2024-06-22,Drywall-A,5,10,62,7,"Rain delay caused slip hazards, slowed down install.",0,0
+2024-06-23,Drywall-A,7,11,65,9,"Rework needed on wall framing, incorrect specs.",0,2366
+2024-06-24,Drywall-A,5,8,115,8,"Productive day, finished Zone A early.",0,0
+2024-06-25,Drywall-A,6,8,97,8,"Crew size normal, steady pace.",0,0
+2024-06-26,Drywall-A,6,8,108,7,"Ahead of schedule, inspection passed.",0,0
+2024-06-27,Drywall-A,5,10,93,7,"Safety talk held this morning, no incidents.",0,0
+2024-06-28,Drywall-A,6,9,111,6,"Ahead of schedule, inspection passed.",0,0
+2024-06-29,Drywall-A,6,8,114,5,"Great weather, slab pour went perfectly.",0,0
+2024-06-30,Drywall-A,5,8,117,4,"Great weather, slab pour went perfectly.",0,0
+2024-07-01,Drywall-A,7,8,90,4,"Safety talk held this morning, no incidents.",0,0
+2024-07-02,Drywall-A,5,12,52,6,"Waiting on RFI response, crew standing around.",0,4672
+2024-07-03,Drywall-A,6,9,102,5,"Productive day, finished Zone A early.",0,0
+2024-07-04,Drywall-A,6,11,52,7,"Waiting on RFI response, crew standing around.",0,4469
+2024-07-05,Drywall-A,7,9,115,6,"Great weather, slab pour went perfectly.",0,0
+2024-07-06,Drywall-A,8,9,105,5,"Productive day, finished Zone A early.",0,0
+2024-07-07,Drywall-A,8,13,53,7,"Rain delay caused slip hazards, slowed down install.",0,1806
+2024-07-08,Drywall-A,6,9,108,6,"Team is in good rhythm, no safety issues.",0,0
+2024-07-09,Drywall-A,8,10,47,8,"Crew exhausted from overtime, morale is low.",1,0
+2024-07-10,Drywall-A,5,9,91,8,"Weather overcast, work continuing.",0,0
+2024-07-11,Drywall-A,6,9,100,7,"Productive day, finished Zone A early.",0,0
+2024-07-12,Drywall-A,6,9,109,6,"Team is in good rhythm, no safety issues.",0,0
+2024-07-13,Drywall-A,7,8,102,5,"Ahead of schedule, inspection passed.",0,0
+2024-07-14,Drywall-A,5,9,89,5,"Standard progress, nothing to report.",0,0
+2024-07-15,Drywall-A,7,10,82,5,"Crew size normal, steady pace.",0,0
+2024-07-16,Drywall-A,5,8,118,4,"Productive day, finished Zone A early.",0,0
+2024-07-17,Drywall-A,8,10,61,6,"Rework needed on wall framing, incorrect specs.",1,3952
+2024-07-18,Drywall-A,7,8,83,6,"Crew size normal, steady pace.",0,0
+2024-07-19,Drywall-A,7,10,81,6,Routine install in Zone B.,0,0
+2024-07-20,Drywall-A,6,14,51,8,"Confusion on drawings for HVAC, had to stop work.",0,4130
+2024-07-21,Drywall-A,6,11,41,10,"Waiting on RFI response, crew standing around.",0,0
+2024-07-22,Drywall-A,8,11,45,12,"Material delivery late, caused bottleneck.",0,0
+2024-07-23,Drywall-A,5,8,98,12,Routine install in Zone B.,0,0
+2024-07-24,Drywall-A,5,9,115,11,"Ahead of schedule, inspection passed.",0,0
+2024-07-25,Drywall-A,8,9,118,10,"Productive day, finished Zone A early.",0,0
+2024-07-26,Drywall-A,8,9,109,9,"Team is in good rhythm, no safety issues.",0,0
+2024-07-27,Drywall-A,6,8,107,8,"Crew moving fast, materials arrived on time.",0,0
+2024-07-28,Drywall-A,5,12,65,10,"Confusion on drawings for HVAC, had to stop work.",1,0
+2024-07-29,Drywall-A,7,8,98,10,"Standard progress, nothing to report.",0,0
+2024-07-30,Drywall-A,6,8,83,10,"Crew size normal, steady pace.",0,0
+2024-07-31,Drywall-A,8,8,116,9,"Team is in good rhythm, no safety issues.",0,0
+2024-08-01,Drywall-A,7,10,59,11,Argument with sub trade over laydown area.,0,2658
+2024-08-02,Drywall-A,6,8,89,11,"Standard progress, nothing to report.",0,0
+2024-08-03,Drywall-A,5,8,109,10,"Crew moving fast, materials arrived on time.",0,0
+2024-08-04,Drywall-A,8,9,80,10,"Standard progress, nothing to report.",0,0
+2024-08-05,Drywall-A,6,10,100,10,"Crew size normal, steady pace.",0,0
+2024-08-06,Drywall-A,7,8,85,10,"Safety talk held this morning, no incidents.",0,0
+2024-08-07,Drywall-A,7,10,92,10,"Safety talk held this morning, no incidents.",0,0
+2024-08-08,Drywall-A,6,9,117,9,"Team is in good rhythm, no safety issues.",0,0
+2024-08-09,Drywall-A,5,10,86,9,"Weather overcast, work continuing.",0,0
+2024-08-10,Drywall-A,7,9,101,8,"Team is in good rhythm, no safety issues.",0,0
+2024-08-11,Drywall-A,5,8,100,8,"Crew size normal, steady pace.",0,0
+2024-08-12,Drywall-A,5,11,47,10,"Confusion on drawings for HVAC, had to stop work.",1,2879
+2024-08-13,Drywall-A,6,9,99,10,"Weather overcast, work continuing.",0,0
+2024-08-14,Drywall-A,7,9,119,9,"Ahead of schedule, inspection passed.",0,0
+2024-08-15,Drywall-A,5,14,69,11,"Material delivery late, caused bottleneck.",0,0
+2024-08-16,Drywall-A,6,9,113,10,"Great weather, slab pour went perfectly.",0,0
+2024-08-17,Drywall-A,8,10,91,10,"Safety talk held this morning, no incidents.",0,0
+2024-08-18,Drywall-A,8,9,111,9,"Great weather, slab pour went perfectly.",0,0
+2024-08-19,Drywall-A,5,9,96,9,"Standard progress, nothing to report.",0,0
+2024-08-20,Drywall-A,7,8,97,9,"Crew size normal, steady pace.",0,0
+2024-08-21,Drywall-A,8,9,87,9,"Weather overcast, work continuing.",0,0
+2024-08-22,Drywall-A,5,8,109,8,"Great weather, slab pour went perfectly.",0,0
+2024-08-23,Drywall-A,8,13,46,10,"Rework needed on wall framing, incorrect specs.",0,0
+2024-08-24,Drywall-A,7,9,117,9,"Ahead of schedule, inspection passed.",0,0
+2024-08-25,Drywall-A,6,9,82,9,"Weather overcast, work continuing.",0,0
+2024-08-26,Drywall-A,7,9,106,8,"Team is in good rhythm, no safety issues.",0,0
+2024-08-27,Drywall-A,7,11,62,10,"Waiting on RFI response, crew standing around.",0,0
+2024-08-28,Drywall-A,5,9,111,9,"Great weather, slab pour went perfectly.",0,0
+2024-08-29,Drywall-A,6,8,96,9,"Safety talk held this morning, no incidents.",0,0
+2024-08-30,Drywall-A,7,9,83,9,"Safety talk held this morning, no incidents.",0,0
+2024-08-31,Drywall-A,8,10,82,9,"Standard progress, nothing to report.",0,0
+2024-09-01,Drywall-A,8,9,107,8,"Ahead of schedule, inspection passed.",0,0
+2024-09-02,Drywall-A,7,9,111,7,"Team is in good rhythm, no safety issues.",0,0
+2024-09-03,Drywall-A,8,8,80,7,"Weather overcast, work continuing.",0,0
+2024-09-04,Drywall-A,5,8,85,7,Routine install in Zone B.,0,0
+2024-09-05,Drywall-A,8,9,100,6,"Team is in good rhythm, no safety issues.",0,0
+2024-09-06,Drywall-A,7,9,112,5,"Crew moving fast, materials arrived on time.",0,0
+2024-09-07,Drywall-A,6,9,101,4,"Crew moving fast, materials arrived on time.",0,0
+2024-09-08,Drywall-A,8,8,116,3,"Team is in good rhythm, no safety issues.",0,0
+2024-09-09,Drywall-A,5,9,100,2,"Team is in good rhythm, no safety issues.",0,0
+2024-09-10,Drywall-A,5,8,92,2,Routine install in Zone B.,0,0
+2024-09-11,Drywall-A,7,8,86,2,"Standard progress, nothing to report.",0,0
+2024-09-12,Drywall-A,8,14,54,4,"Material delivery late, caused bottleneck.",0,0
+2024-09-13,Drywall-A,7,9,106,3,"Great weather, slab pour went perfectly.",0,0
+2024-09-14,Drywall-A,5,9,87,3,"Safety talk held this morning, no incidents.",0,0
+2024-09-15,Drywall-A,8,9,97,3,"Safety talk held this morning, no incidents.",0,0
+2024-09-16,Drywall-A,6,9,111,2,"Ahead of schedule, inspection passed.",0,0
+2024-09-17,Drywall-A,5,8,112,1,"Crew moving fast, materials arrived on time.",0,0
+2024-09-18,Drywall-A,7,10,67,3,Argument with sub trade over laydown area.,0,0
+2024-09-19,Drywall-A,8,10,92,3,Routine install in Zone B.,0,0
+2024-09-20,Drywall-A,5,10,82,3,"Standard progress, nothing to report.",0,0
+2024-09-21,Drywall-A,6,10,80,3,"Safety talk held this morning, no incidents.",0,0
+2024-09-22,Drywall-A,6,9,119,2,"Team is in good rhythm, no safety issues.",0,0
+2024-09-23,Drywall-A,5,9,100,1,"Great weather, slab pour went perfectly.",0,0
+2024-09-24,Drywall-A,8,8,117,0,"Great weather, slab pour went perfectly.",0,0
+2024-09-25,Drywall-A,6,9,105,0,"Crew moving fast, materials arrived on time.",0,0
+2024-09-26,Drywall-A,6,8,104,0,"Crew moving fast, materials arrived on time.",0,0
+2024-09-27,Drywall-A,8,10,92,0,"Crew size normal, steady pace.",0,0
+2024-09-28,Drywall-A,5,9,104,0,"Great weather, slab pour went perfectly.",0,0
+2024-09-29,Drywall-A,6,9,87,0,"Standard progress, nothing to report.",0,0
+2024-09-30,Drywall-A,5,10,64,2,Argument with sub trade over laydown area.,0,1154
+2024-10-01,Drywall-A,7,9,108,1,"Crew moving fast, materials arrived on time.",0,0
+2024-10-02,Drywall-A,5,8,108,0,"Crew moving fast, materials arrived on time.",0,0
+2024-10-03,Drywall-A,6,14,50,2,"Rework needed on wall framing, incorrect specs.",1,0
+2024-10-04,Drywall-A,6,9,82,2,"Standard progress, nothing to report.",0,0
+2024-10-05,Drywall-A,6,9,114,1,"Crew moving fast, materials arrived on time.",0,0
+2024-10-06,Drywall-A,7,8,114,0,"Crew moving fast, materials arrived on time.",0,0
+2024-10-07,Drywall-A,8,9,91,0,"Crew size normal, steady pace.",0,0
+2024-10-08,Drywall-A,7,8,112,0,"Crew moving fast, materials arrived on time.",0,0
+2024-10-09,Drywall-A,6,9,104,0,"Team is in good rhythm, no safety issues.",0,0
+2024-10-10,Drywall-A,5,8,120,0,"Productive day, finished Zone A early.",0,0
+2024-10-11,Drywall-A,6,10,96,0,"Weather overcast, work continuing.",0,0
+2024-10-12,Drywall-A,7,9,106,0,"Productive day, finished Zone A early.",0,0
+2024-10-13,Drywall-A,7,13,42,2,Argument with sub trade over laydown area.,0,4903
+2024-10-14,Drywall-A,7,8,105,1,"Great weather, slab pour went perfectly.",0,0
+2024-10-15,Drywall-A,5,9,98,1,"Weather overcast, work continuing.",0,0
+2024-10-16,Drywall-A,8,10,62,3,"Crew exhausted from overtime, morale is low.",0,0
+2024-10-17,Drywall-A,8,8,90,3,"Standard progress, nothing to report.",0,0
+2024-10-18,Drywall-A,8,8,106,2,"Ahead of schedule, inspection passed.",0,0
+2024-10-19,Drywall-A,5,10,97,2,"Crew size normal, steady pace.",0,0
+2024-10-20,Drywall-A,8,9,102,1,"Productive day, finished Zone A early.",0,0
+2024-10-21,Drywall-A,7,9,85,1,Routine install in Zone B.,0,0
+2024-10-22,Drywall-A,8,8,97,1,Routine install in Zone B.,0,0
+2024-10-23,Drywall-A,5,8,92,1,"Weather overcast, work continuing.",0,0
+2024-10-24,Drywall-A,8,9,117,0,"Great weather, slab pour went perfectly.",0,0
+2024-10-25,Drywall-A,7,8,116,0,"Great weather, slab pour went perfectly.",0,0
+2024-10-26,Drywall-A,7,8,100,0,"Productive day, finished Zone A early.",0,0
+2024-10-27,Drywall-A,8,8,81,0,"Safety talk held this morning, no incidents.",0,0
+2024-10-28,Drywall-A,8,9,118,0,"Great weather, slab pour went perfectly.",0,0
+2024-10-29,Drywall-A,7,10,44,2,"Material delivery late, caused bottleneck.",0,0
+2024-10-30,Drywall-A,7,9,115,1,"Productive day, finished Zone A early.",0,0
+2024-10-31,Drywall-A,5,13,50,3,"Rain delay caused slip hazards, slowed down install.",0,0
+2024-11-01,Drywall-A,7,9,81,3,"Safety talk held this morning, no incidents.",0,0
+2024-11-02,Drywall-A,7,8,119,2,"Ahead of schedule, inspection passed.",0,0
+2024-11-03,Drywall-A,5,8,115,1,"Productive day, finished Zone A early.",0,0
+2024-11-04,Drywall-A,7,8,115,0,"Crew moving fast, materials arrived on time.",0,0
+2024-11-05,Drywall-A,7,9,111,0,"Ahead of schedule, inspection passed.",0,0
+2024-11-06,Drywall-A,6,11,59,2,"Material delivery late, caused bottleneck.",1,2135
+2024-11-07,Drywall-A,7,9,94,2,"Standard progress, nothing to report.",0,0
+2024-11-08,Drywall-A,7,8,102,1,"Team is in good rhythm, no safety issues.",0,0
+2024-11-09,Drywall-A,6,9,113,0,"Team is in good rhythm, no safety issues.",0,0
+2024-11-10,Drywall-A,6,9,113,0,"Great weather, slab pour went perfectly.",0,0
+2024-11-11,Drywall-A,6,9,87,0,Routine install in Zone B.,0,0
+2024-11-12,Drywall-A,7,8,114,0,"Ahead of schedule, inspection passed.",0,0
+2024-11-13,Drywall-A,7,12,68,2,Argument with sub trade over laydown area.,0,0
+2024-11-14,Drywall-A,8,9,98,2,"Crew size normal, steady pace.",0,0
+2024-11-15,Drywall-A,8,8,107,1,"Team is in good rhythm, no safety issues.",0,0
+2024-11-16,Drywall-A,5,8,104,0,"Ahead of schedule, inspection passed.",0,0
+2024-11-17,Drywall-A,5,12,44,2,"Material delivery late, caused bottleneck.",0,0
+2024-11-18,Drywall-A,5,11,42,4,"Crew exhausted from overtime, morale is low.",1,0
+2024-11-19,Drywall-A,7,9,84,4,Routine install in Zone B.,0,0
+2024-11-20,Drywall-A,8,9,106,3,"Crew moving fast, materials arrived on time.",0,0
+2024-11-21,Drywall-A,5,8,109,2,"Productive day, finished Zone A early.",0,0
+2024-11-22,Drywall-A,5,13,43,4,"Waiting on RFI response, crew standing around.",1,1792
+2024-11-23,Drywall-A,8,8,109,3,"Ahead of schedule, inspection passed.",0,0
+2024-11-24,Drywall-A,8,9,118,2,"Team is in good rhythm, no safety issues.",0,0
+2024-11-25,Drywall-A,6,9,106,1,"Great weather, slab pour went perfectly.",0,0
+2024-11-26,Drywall-A,7,9,103,0,"Great weather, slab pour went perfectly.",0,0
+2024-11-27,Drywall-A,7,13,54,2,"Waiting on RFI response, crew standing around.",1,3110
+2024-11-28,Drywall-A,7,8,103,1,"Crew moving fast, materials arrived on time.",0,0
+2024-11-29,Drywall-A,6,8,83,1,"Weather overcast, work continuing.",0,0
+2024-11-30,Drywall-A,7,8,118,0,"Team is in good rhythm, no safety issues.",0,0
+2024-12-01,Drywall-A,6,9,100,0,"Crew size normal, steady pace.",0,0
+2024-12-02,Drywall-A,8,13,47,2,"Crew exhausted from overtime, morale is low.",0,4191
+2024-12-03,Drywall-A,8,8,117,1,"Crew moving fast, materials arrived on time.",0,0
+2024-12-04,Drywall-A,5,9,110,0,"Great weather, slab pour went perfectly.",0,0
+2024-12-05,Drywall-A,5,9,116,0,"Great weather, slab pour went perfectly.",0,0
+2024-12-06,Drywall-A,8,8,106,0,"Ahead of schedule, inspection passed.",0,0
+2024-12-07,Drywall-A,7,9,100,0,"Safety talk held this morning, no incidents.",0,0
+2024-12-08,Drywall-A,6,8,105,0,"Ahead of schedule, inspection passed.",0,0
+2024-12-09,Drywall-A,5,8,116,0,"Ahead of schedule, inspection passed.",0,0
+2024-12-10,Drywall-A,5,8,107,0,"Great weather, slab pour went perfectly.",0,0
+2024-12-11,Drywall-A,7,9,115,0,"Productive day, finished Zone A early.",0,0
+2024-12-12,Drywall-A,8,8,110,0,"Productive day, finished Zone A early.",0,0
+2024-12-13,Drywall-A,5,9,106,0,"Team is in good rhythm, no safety issues.",0,0
+2024-12-14,Drywall-A,7,9,108,0,"Team is in good rhythm, no safety issues.",0,0
+2024-12-15,Drywall-A,7,9,120,0,"Ahead of schedule, inspection passed.",0,0
+2024-12-16,Drywall-A,5,9,100,0,"Team is in good rhythm, no safety issues.",0,0
+2024-12-17,Drywall-A,7,8,104,0,"Great weather, slab pour went perfectly.",0,0
+2024-12-18,Drywall-A,6,9,81,0,Routine install in Zone B.,0,0
+2024-12-19,Drywall-A,5,8,117,0,"Great weather, slab pour went perfectly.",0,0
+2024-12-20,Drywall-A,8,9,80,0,"Weather overcast, work continuing.",0,0
+2024-12-21,Drywall-A,7,10,89,0,"Standard progress, nothing to report.",0,0
+2024-12-22,Drywall-A,5,12,63,2,"Confusion on drawings for HVAC, had to stop work.",1,3349
+2024-12-23,Drywall-A,7,8,86,2,"Safety talk held this morning, no incidents.",0,0
+2024-12-24,Drywall-A,5,8,107,1,"Ahead of schedule, inspection passed.",0,0
+2024-12-25,Drywall-A,6,8,103,0,"Ahead of schedule, inspection passed.",0,0
+2024-12-26,Drywall-A,5,9,118,0,"Productive day, finished Zone A early.",0,0
+2024-12-27,Drywall-A,7,9,101,0,"Great weather, slab pour went perfectly.",0,0
+2024-12-28,Drywall-A,5,8,108,0,"Productive day, finished Zone A early.",0,0
+2024-12-29,Drywall-A,7,11,68,2,"Confusion on drawings for HVAC, had to stop work.",0,0
+2024-12-30,Drywall-A,8,10,83,2,"Safety talk held this morning, no incidents.",0,0
+2024-01-01,Drywall-B,5,9,112,0,"Team is in good rhythm, no safety issues.",0,0
+2024-01-02,Drywall-B,8,8,80,0,"Safety talk held this morning, no incidents.",0,0
+2024-01-03,Drywall-B,6,14,48,2,"Material delivery late, caused bottleneck.",0,4211
+2024-01-04,Drywall-B,6,10,85,2,"Weather overcast, work continuing.",0,0
+2024-01-05,Drywall-B,8,10,81,2,"Safety talk held this morning, no incidents.",0,0
+2024-01-06,Drywall-B,8,8,103,1,"Crew moving fast, materials arrived on time.",0,0
+2024-01-07,Drywall-B,5,10,100,1,"Standard progress, nothing to report.",0,0
+2024-01-08,Drywall-B,7,9,85,1,"Crew size normal, steady pace.",0,0
+2024-01-09,Drywall-B,5,10,41,3,"Rework needed on wall framing, incorrect specs.",0,0
+2024-01-10,Drywall-B,8,9,119,2,"Team is in good rhythm, no safety issues.",0,0
+2024-01-11,Drywall-B,7,8,108,1,"Great weather, slab pour went perfectly.",0,0
+2024-01-12,Drywall-B,5,10,57,3,"Waiting on RFI response, crew standing around.",0,0
+2024-01-13,Drywall-B,5,10,84,3,"Safety talk held this morning, no incidents.",0,0
+2024-01-14,Drywall-B,5,9,120,2,"Great weather, slab pour went perfectly.",0,0
+2024-01-15,Drywall-B,6,9,107,1,"Crew moving fast, materials arrived on time.",0,0
+2024-01-16,Drywall-B,8,9,90,1,"Standard progress, nothing to report.",0,0
+2024-01-17,Drywall-B,6,9,82,1,"Safety talk held this morning, no incidents.",0,0
+2024-01-18,Drywall-B,8,8,114,0,"Team is in good rhythm, no safety issues.",0,0
+2024-01-19,Drywall-B,7,13,70,2,"Rain delay caused slip hazards, slowed down install.",0,0
+2024-01-20,Drywall-B,7,9,107,1,"Great weather, slab pour went perfectly.",0,0
+2024-01-21,Drywall-B,7,8,107,0,"Team is in good rhythm, no safety issues.",0,0
+2024-01-22,Drywall-B,5,9,83,0,Routine install in Zone B.,0,0
+2024-01-23,Drywall-B,8,9,105,0,"Team is in good rhythm, no safety issues.",0,0
+2024-01-24,Drywall-B,8,8,113,0,"Crew moving fast, materials arrived on time.",0,0
+2024-01-25,Drywall-B,5,13,42,2,"Crew exhausted from overtime, morale is low.",0,0
+2024-01-26,Drywall-B,8,10,88,2,"Safety talk held this morning, no incidents.",0,0
+2024-01-27,Drywall-B,5,9,114,1,"Crew moving fast, materials arrived on time.",0,0
+2024-01-28,Drywall-B,5,9,111,0,"Crew moving fast, materials arrived on time.",0,0
+2024-01-29,Drywall-B,5,8,120,0,"Team is in good rhythm, no safety issues.",0,0
+2024-01-30,Drywall-B,7,9,97,0,Routine install in Zone B.,0,0
+2024-01-31,Drywall-B,7,14,41,2,"Rework needed on wall framing, incorrect specs.",1,2475
+2024-02-01,Drywall-B,8,9,93,2,Routine install in Zone B.,0,0
+2024-02-02,Drywall-B,5,8,115,1,"Crew moving fast, materials arrived on time.",0,0
+2024-02-03,Drywall-B,6,8,110,0,"Ahead of schedule, inspection passed.",0,0
+2024-02-04,Drywall-B,5,9,100,0,"Team is in good rhythm, no safety issues.",0,0
+2024-02-05,Drywall-B,5,14,61,2,"Rain delay caused slip hazards, slowed down install.",0,3694
+2024-02-06,Drywall-B,5,8,103,1,"Great weather, slab pour went perfectly.",0,0
+2024-02-07,Drywall-B,6,9,102,0,"Crew moving fast, materials arrived on time.",0,0
+2024-02-08,Drywall-B,8,14,61,2,Argument with sub trade over laydown area.,0,0
+2024-02-09,Drywall-B,6,13,54,4,"Waiting on RFI response, crew standing around.",1,2027
+2024-02-10,Drywall-B,7,9,106,3,"Great weather, slab pour went perfectly.",0,0
+2024-02-11,Drywall-B,5,9,88,3,"Weather overcast, work continuing.",0,0
+2024-02-12,Drywall-B,7,9,109,2,"Ahead of schedule, inspection passed.",0,0
+2024-02-13,Drywall-B,6,12,65,4,"Confusion on drawings for HVAC, had to stop work.",0,3133
+2024-02-14,Drywall-B,7,8,101,3,"Team is in good rhythm, no safety issues.",0,0
+2024-02-15,Drywall-B,7,8,98,3,"Weather overcast, work continuing.",0,0
+2024-02-16,Drywall-B,8,9,97,3,"Crew size normal, steady pace.",0,0
+2024-02-17,Drywall-B,7,9,114,2,"Crew moving fast, materials arrived on time.",0,0
+2024-02-18,Drywall-B,8,10,84,2,"Safety talk held this morning, no incidents.",0,0
+2024-02-19,Drywall-B,5,8,113,1,"Crew moving fast, materials arrived on time.",0,0
+2024-02-20,Drywall-B,6,9,103,0,"Crew moving fast, materials arrived on time.",0,0
+2024-02-21,Drywall-B,6,9,118,0,"Ahead of schedule, inspection passed.",0,0
+2024-02-22,Drywall-B,7,11,53,2,"Rework needed on wall framing, incorrect specs.",0,0
+2024-02-23,Drywall-B,8,14,41,4,"Crew exhausted from overtime, morale is low.",1,4005
+2024-02-24,Drywall-B,7,10,57,6,"Rain delay caused slip hazards, slowed down install.",1,4936
+2024-02-25,Drywall-B,7,9,106,5,"Team is in good rhythm, no safety issues.",0,0
+2024-02-26,Drywall-B,7,9,112,4,"Team is in good rhythm, no safety issues.",0,0
+2024-02-27,Drywall-B,7,9,103,3,"Productive day, finished Zone A early.",0,0
+2024-02-28,Drywall-B,8,9,113,2,"Crew moving fast, materials arrived on time.",0,0
+2024-02-29,Drywall-B,5,12,44,4,Argument with sub trade over laydown area.,1,3442
+2024-03-01,Drywall-B,5,10,89,4,"Weather overcast, work continuing.",0,0
+2024-03-02,Drywall-B,6,8,83,4,"Safety talk held this morning, no incidents.",0,0
+2024-03-03,Drywall-B,6,12,68,6,"Waiting on RFI response, crew standing around.",0,4400
+2024-03-04,Drywall-B,8,8,116,5,"Productive day, finished Zone A early.",0,0
+2024-03-05,Drywall-B,5,9,100,4,"Productive day, finished Zone A early.",0,0
+2024-03-06,Drywall-B,5,9,106,3,"Ahead of schedule, inspection passed.",0,0
+2024-03-07,Drywall-B,8,8,89,3,"Crew size normal, steady pace.",0,0
+2024-03-08,Drywall-B,6,8,96,3,"Standard progress, nothing to report.",0,0
+2024-03-09,Drywall-B,6,8,105,2,"Productive day, finished Zone A early.",0,0
+2024-03-10,Drywall-B,8,9,111,1,"Productive day, finished Zone A early.",0,0
+2024-03-11,Drywall-B,7,8,101,0,"Crew moving fast, materials arrived on time.",0,0
+2024-03-12,Drywall-B,5,9,100,0,"Crew moving fast, materials arrived on time.",0,0
+2024-03-13,Drywall-B,7,9,105,0,"Crew moving fast, materials arrived on time.",0,0
+2024-03-14,Drywall-B,8,10,100,0,"Standard progress, nothing to report.",0,0
+2024-03-15,Drywall-B,7,9,99,0,Routine install in Zone B.,0,0
+2024-03-16,Drywall-B,6,9,108,0,"Team is in good rhythm, no safety issues.",0,0
+2024-03-17,Drywall-B,6,8,84,0,"Weather overcast, work continuing.",0,0
+2024-03-18,Drywall-B,6,10,94,0,Routine install in Zone B.,0,0
+2024-03-19,Drywall-B,7,9,86,0,"Standard progress, nothing to report.",0,0
+2024-03-20,Drywall-B,6,10,89,0,"Standard progress, nothing to report.",0,0
+2024-03-21,Drywall-B,6,8,87,0,"Standard progress, nothing to report.",0,0
+2024-03-22,Drywall-B,7,9,114,0,"Productive day, finished Zone A early.",0,0
+2024-03-23,Drywall-B,6,10,47,2,"Confusion on drawings for HVAC, had to stop work.",0,2342
+2024-03-24,Drywall-B,7,8,82,2,"Safety talk held this morning, no incidents.",0,0
+2024-03-25,Drywall-B,8,10,97,2,"Crew size normal, steady pace.",0,0
+2024-03-26,Drywall-B,5,10,42,4,"Confusion on drawings for HVAC, had to stop work.",1,3489
+2024-03-27,Drywall-B,7,10,67,6,Argument with sub trade over laydown area.,1,0
+2024-03-28,Drywall-B,5,8,88,6,"Standard progress, nothing to report.",0,0
+2024-03-29,Drywall-B,6,8,80,6,Routine install in Zone B.,0,0
+2024-03-30,Drywall-B,7,8,114,5,"Productive day, finished Zone A early.",0,0
+2024-03-31,Drywall-B,6,9,120,4,"Productive day, finished Zone A early.",0,0
+2024-04-01,Drywall-B,5,8,105,3,"Great weather, slab pour went perfectly.",0,0
+2024-04-02,Drywall-B,7,13,68,5,"Material delivery late, caused bottleneck.",1,0
+2024-04-03,Drywall-B,7,8,108,4,"Great weather, slab pour went perfectly.",0,0
+2024-04-04,Drywall-B,7,8,120,3,"Team is in good rhythm, no safety issues.",0,0
+2024-04-05,Drywall-B,7,9,119,2,"Crew moving fast, materials arrived on time.",0,0
+2024-04-06,Drywall-B,6,11,66,4,"Material delivery late, caused bottleneck.",0,3709
+2024-04-07,Drywall-B,6,11,53,6,"Rain delay caused slip hazards, slowed down install.",0,2494
+2024-04-08,Drywall-B,5,8,82,6,"Weather overcast, work continuing.",0,0
+2024-04-09,Drywall-B,8,9,117,5,"Team is in good rhythm, no safety issues.",0,0
+2024-04-10,Drywall-B,8,9,106,4,"Productive day, finished Zone A early.",0,0
+2024-04-11,Drywall-B,5,8,105,3,"Ahead of schedule, inspection passed.",0,0
+2024-04-12,Drywall-B,5,8,108,2,"Ahead of schedule, inspection passed.",0,0
+2024-04-13,Drywall-B,5,8,113,1,"Ahead of schedule, inspection passed.",0,0
+2024-04-14,Drywall-B,6,8,116,0,"Team is in good rhythm, no safety issues.",0,0
+2024-04-15,Drywall-B,7,9,114,0,"Team is in good rhythm, no safety issues.",0,0
+2024-04-16,Drywall-B,8,8,102,0,"Great weather, slab pour went perfectly.",0,0
+2024-04-17,Drywall-B,7,8,115,0,"Crew moving fast, materials arrived on time.",0,0
+2024-04-18,Drywall-B,6,9,102,0,"Great weather, slab pour went perfectly.",0,0
+2024-04-19,Drywall-B,6,13,60,2,"Crew exhausted from overtime, morale is low.",1,2605
+2024-04-20,Drywall-B,7,10,86,2,"Crew size normal, steady pace.",0,0
+2024-04-21,Drywall-B,6,8,112,1,"Team is in good rhythm, no safety issues.",0,0
+2024-04-22,Drywall-B,5,8,115,0,"Great weather, slab pour went perfectly.",0,0
+2024-04-23,Drywall-B,6,9,107,0,"Great weather, slab pour went perfectly.",0,0
+2024-04-24,Drywall-B,8,8,90,0,"Standard progress, nothing to report.",0,0
+2024-04-25,Drywall-B,5,9,120,0,"Productive day, finished Zone A early.",0,0
+2024-04-26,Drywall-B,7,9,105,0,"Team is in good rhythm, no safety issues.",0,0
+2024-04-27,Drywall-B,8,8,80,0,"Safety talk held this morning, no incidents.",0,0
+2024-04-28,Drywall-B,8,9,101,0,"Productive day, finished Zone A early.",0,0
+2024-04-29,Drywall-B,5,8,113,0,"Productive day, finished Zone A early.",0,0
+2024-04-30,Drywall-B,5,9,88,0,"Safety talk held this morning, no incidents.",0,0
+2024-05-01,Drywall-B,5,14,41,2,Argument with sub trade over laydown area.,0,4389
+2024-05-02,Drywall-B,6,11,55,4,"Crew exhausted from overtime, morale is low.",0,0
+2024-05-03,Drywall-B,7,9,116,3,"Team is in good rhythm, no safety issues.",0,0
+2024-05-04,Drywall-B,5,10,99,3,"Crew size normal, steady pace.",0,0
+2024-05-05,Drywall-B,5,9,110,2,"Productive day, finished Zone A early.",0,0
+2024-05-06,Drywall-B,8,9,92,2,"Safety talk held this morning, no incidents.",0,0
+2024-05-07,Drywall-B,5,8,109,1,"Great weather, slab pour went perfectly.",0,0
+2024-05-08,Drywall-B,7,8,83,1,"Standard progress, nothing to report.",0,0
+2024-05-09,Drywall-B,7,9,106,0,"Great weather, slab pour went perfectly.",0,0
+2024-05-10,Drywall-B,8,9,116,0,"Great weather, slab pour went perfectly.",0,0
+2024-05-11,Drywall-B,7,10,96,0,Routine install in Zone B.,0,0
+2024-05-12,Drywall-B,7,8,119,0,"Productive day, finished Zone A early.",0,0
+2024-05-13,Drywall-B,7,9,106,0,"Ahead of schedule, inspection passed.",0,0
+2024-05-14,Drywall-B,6,9,110,0,"Team is in good rhythm, no safety issues.",0,0
+2024-05-15,Drywall-B,7,14,52,2,"Waiting on RFI response, crew standing around.",1,0
+2024-05-16,Drywall-B,5,10,47,4,"Material delivery late, caused bottleneck.",0,1614
+2024-05-17,Drywall-B,6,8,101,3,"Team is in good rhythm, no safety issues.",0,0
+2024-05-18,Drywall-B,8,10,47,5,"Rain delay caused slip hazards, slowed down install.",0,0
+2024-05-19,Drywall-B,6,10,53,7,"Confusion on drawings for HVAC, had to stop work.",0,972
+2024-05-20,Drywall-B,5,8,110,6,"Productive day, finished Zone A early.",0,0
+2024-05-21,Drywall-B,8,10,51,8,"Rain delay caused slip hazards, slowed down install.",0,0
+2024-05-22,Drywall-B,8,8,82,8,"Weather overcast, work continuing.",0,0
+2024-05-23,Drywall-B,7,8,97,8,"Safety talk held this morning, no incidents.",0,0
+2024-05-24,Drywall-B,7,10,93,8,"Standard progress, nothing to report.",0,0
+2024-05-25,Drywall-B,6,9,94,8,"Weather overcast, work continuing.",0,0
+2024-05-26,Drywall-B,5,8,104,7,"Team is in good rhythm, no safety issues.",0,0
+2024-05-27,Drywall-B,6,10,81,7,Routine install in Zone B.,0,0
+2024-05-28,Drywall-B,8,8,84,7,"Standard progress, nothing to report.",0,0
+2024-05-29,Drywall-B,7,8,90,7,"Standard progress, nothing to report.",0,0
+2024-05-30,Drywall-B,7,8,112,6,"Team is in good rhythm, no safety issues.",0,0
+2024-05-31,Drywall-B,7,13,64,8,"Material delivery late, caused bottleneck.",0,3793
+2024-06-01,Drywall-B,6,14,67,10,Argument with sub trade over laydown area.,1,0
+2024-06-02,Drywall-B,6,11,43,12,Argument with sub trade over laydown area.,0,0
+2024-06-03,Drywall-B,5,8,93,12,"Weather overcast, work continuing.",0,0
+2024-06-04,Drywall-B,7,9,95,12,"Weather overcast, work continuing.",0,0
+2024-06-05,Drywall-B,5,8,112,11,"Great weather, slab pour went perfectly.",0,0
+2024-06-06,Drywall-B,6,9,82,11,"Standard progress, nothing to report.",0,0
+2024-06-07,Drywall-B,8,9,113,10,"Crew moving fast, materials arrived on time.",0,0
+2024-06-08,Drywall-B,8,8,102,9,"Team is in good rhythm, no safety issues.",0,0
+2024-06-09,Drywall-B,8,8,105,8,"Great weather, slab pour went perfectly.",0,0
+2024-06-10,Drywall-B,7,8,85,8,"Weather overcast, work continuing.",0,0
+2024-06-11,Drywall-B,8,9,119,7,"Productive day, finished Zone A early.",0,0
+2024-06-12,Drywall-B,6,8,86,7,"Weather overcast, work continuing.",0,0
+2024-06-13,Drywall-B,6,8,105,6,"Great weather, slab pour went perfectly.",0,0
+2024-06-14,Drywall-B,8,11,64,8,"Waiting on RFI response, crew standing around.",0,2180
+2024-06-15,Drywall-B,6,10,91,8,"Crew size normal, steady pace.",0,0
+2024-06-16,Drywall-B,7,13,47,10,"Material delivery late, caused bottleneck.",0,0
+2024-06-17,Drywall-B,8,10,56,12,Argument with sub trade over laydown area.,0,0
+2024-06-18,Drywall-B,5,9,100,11,"Great weather, slab pour went perfectly.",0,0
+2024-06-19,Drywall-B,8,10,68,13,"Rework needed on wall framing, incorrect specs.",0,0
+2024-06-20,Drywall-B,5,9,102,12,"Crew moving fast, materials arrived on time.",0,0
+2024-06-21,Drywall-B,5,9,110,11,"Team is in good rhythm, no safety issues.",0,0
+2024-06-22,Drywall-B,8,10,83,11,Routine install in Zone B.,0,0
+2024-06-23,Drywall-B,8,11,48,13,"Rain delay caused slip hazards, slowed down install.",1,3569
+2024-06-24,Drywall-B,8,9,84,13,Routine install in Zone B.,0,0
+2024-06-25,Drywall-B,5,9,80,13,"Weather overcast, work continuing.",0,0
+2024-06-26,Drywall-B,5,8,90,13,"Crew size normal, steady pace.",0,0
+2024-06-27,Drywall-B,6,8,97,13,"Crew size normal, steady pace.",0,0
+2024-06-28,Drywall-B,8,8,119,12,"Great weather, slab pour went perfectly.",0,0
+2024-06-29,Drywall-B,5,9,89,12,"Standard progress, nothing to report.",0,0
+2024-06-30,Drywall-B,6,8,106,11,"Productive day, finished Zone A early.",0,0
+2024-07-01,Drywall-B,8,9,95,11,"Safety talk held this morning, no incidents.",0,0
+2024-07-02,Drywall-B,8,14,50,13,"Confusion on drawings for HVAC, had to stop work.",0,1896
+2024-07-03,Drywall-B,8,8,105,12,"Ahead of schedule, inspection passed.",0,0
+2024-07-04,Drywall-B,6,8,90,12,"Standard progress, nothing to report.",0,0
+2024-07-05,Drywall-B,5,10,88,12,"Safety talk held this morning, no incidents.",0,0
+2024-07-06,Drywall-B,6,10,89,12,"Standard progress, nothing to report.",0,0
+2024-07-07,Drywall-B,8,9,119,11,"Crew moving fast, materials arrived on time.",0,0
+2024-07-08,Drywall-B,8,14,68,13,"Crew exhausted from overtime, morale is low.",0,0
+2024-07-09,Drywall-B,7,8,118,12,"Ahead of schedule, inspection passed.",0,0
+2024-07-10,Drywall-B,7,8,119,11,"Crew moving fast, materials arrived on time.",0,0
+2024-07-11,Drywall-B,6,10,44,13,"Material delivery late, caused bottleneck.",0,0
+2024-07-12,Drywall-B,7,8,89,13,"Crew size normal, steady pace.",0,0
+2024-07-13,Drywall-B,5,10,83,13,Routine install in Zone B.,0,0
+2024-07-14,Drywall-B,6,8,103,12,"Great weather, slab pour went perfectly.",0,0
+2024-07-15,Drywall-B,8,10,81,12,"Weather overcast, work continuing.",0,0
+2024-07-16,Drywall-B,8,8,84,12,"Standard progress, nothing to report.",0,0
+2024-07-17,Drywall-B,5,8,112,11,"Productive day, finished Zone A early.",0,0
+2024-07-18,Drywall-B,5,9,81,11,Routine install in Zone B.,0,0
+2024-07-19,Drywall-B,7,9,100,10,"Ahead of schedule, inspection passed.",0,0
+2024-07-20,Drywall-B,6,9,108,9,"Productive day, finished Zone A early.",0,0
+2024-07-21,Drywall-B,5,8,81,9,"Standard progress, nothing to report.",0,0
+2024-07-22,Drywall-B,6,9,110,8,"Team is in good rhythm, no safety issues.",0,0
+2024-07-23,Drywall-B,6,8,95,8,"Standard progress, nothing to report.",0,0
+2024-07-24,Drywall-B,7,8,108,7,"Team is in good rhythm, no safety issues.",0,0
+2024-07-25,Drywall-B,7,8,99,7,"Safety talk held this morning, no incidents.",0,0
+2024-07-26,Drywall-B,7,14,62,9,Argument with sub trade over laydown area.,0,3858
+2024-07-27,Drywall-B,5,9,91,9,"Standard progress, nothing to report.",0,0
+2024-07-28,Drywall-B,5,10,88,9,"Weather overcast, work continuing.",0,0
+2024-07-29,Drywall-B,5,9,106,8,"Crew moving fast, materials arrived on time.",0,0
+2024-07-30,Drywall-B,6,8,104,7,"Productive day, finished Zone A early.",0,0
+2024-07-31,Drywall-B,5,13,70,9,Argument with sub trade over laydown area.,0,0
+2024-08-01,Drywall-B,7,11,61,11,"Crew exhausted from overtime, morale is low.",1,0
+2024-08-02,Drywall-B,8,8,109,10,"Great weather, slab pour went perfectly.",0,0
+2024-08-03,Drywall-B,8,8,109,9,"Ahead of schedule, inspection passed.",0,0
+2024-08-04,Drywall-B,6,9,100,8,"Team is in good rhythm, no safety issues.",0,0
+2024-08-05,Drywall-B,7,9,118,7,"Great weather, slab pour went perfectly.",0,0
+2024-08-06,Drywall-B,8,9,119,6,"Great weather, slab pour went perfectly.",0,0
+2024-08-07,Drywall-B,8,8,118,5,"Team is in good rhythm, no safety issues.",0,0
+2024-08-08,Drywall-B,7,9,112,4,"Ahead of schedule, inspection passed.",0,0
+2024-08-09,Drywall-B,6,12,56,6,"Rework needed on wall framing, incorrect specs.",1,2603
+2024-08-10,Drywall-B,5,9,117,5,"Ahead of schedule, inspection passed.",0,0
+2024-08-11,Drywall-B,6,8,110,4,"Great weather, slab pour went perfectly.",0,0
+2024-08-12,Drywall-B,8,9,81,4,"Crew size normal, steady pace.",0,0
+2024-08-13,Drywall-B,5,8,110,3,"Team is in good rhythm, no safety issues.",0,0
+2024-08-14,Drywall-B,6,8,106,2,"Team is in good rhythm, no safety issues.",0,0
+2024-08-15,Drywall-B,5,9,82,2,"Standard progress, nothing to report.",0,0
+2024-08-16,Drywall-B,7,14,55,4,"Crew exhausted from overtime, morale is low.",1,989
+2024-08-17,Drywall-B,8,9,114,3,"Team is in good rhythm, no safety issues.",0,0
+2024-08-18,Drywall-B,6,9,112,2,"Crew moving fast, materials arrived on time.",0,0
+2024-08-19,Drywall-B,5,8,92,2,Routine install in Zone B.,0,0
+2024-08-20,Drywall-B,7,8,100,1,"Team is in good rhythm, no safety issues.",0,0
+2024-08-21,Drywall-B,6,12,43,3,"Material delivery late, caused bottleneck.",0,2491
+2024-08-22,Drywall-B,5,8,108,2,"Team is in good rhythm, no safety issues.",0,0
+2024-08-23,Drywall-B,7,9,110,1,"Ahead of schedule, inspection passed.",0,0
+2024-08-24,Drywall-B,8,8,89,1,"Crew size normal, steady pace.",0,0
+2024-08-25,Drywall-B,8,9,108,0,"Great weather, slab pour went perfectly.",0,0
+2024-08-26,Drywall-B,5,8,115,0,"Ahead of schedule, inspection passed.",0,0
+2024-08-27,Drywall-B,6,9,110,0,"Team is in good rhythm, no safety issues.",0,0
+2024-08-28,Drywall-B,6,9,94,0,"Safety talk held this morning, no incidents.",0,0
+2024-08-29,Drywall-B,7,10,84,0,"Safety talk held this morning, no incidents.",0,0
+2024-08-30,Drywall-B,7,11,63,2,"Rework needed on wall framing, incorrect specs.",0,1360
+2024-08-31,Drywall-B,5,8,95,2,"Weather overcast, work continuing.",0,0
+2024-09-01,Drywall-B,8,8,119,1,"Productive day, finished Zone A early.",0,0
+2024-09-02,Drywall-B,5,14,69,3,"Confusion on drawings for HVAC, had to stop work.",0,1982
+2024-09-03,Drywall-B,5,14,53,5,"Waiting on RFI response, crew standing around.",0,2647
+2024-09-04,Drywall-B,5,8,118,4,"Productive day, finished Zone A early.",0,0
+2024-09-05,Drywall-B,6,9,87,4,Routine install in Zone B.,0,0
+2024-09-06,Drywall-B,5,9,111,3,"Ahead of schedule, inspection passed.",0,0
+2024-09-07,Drywall-B,6,13,53,5,"Crew exhausted from overtime, morale is low.",0,3910
+2024-09-08,Drywall-B,6,10,82,5,"Standard progress, nothing to report.",0,0
+2024-09-09,Drywall-B,6,9,104,4,"Great weather, slab pour went perfectly.",0,0
+2024-09-10,Drywall-B,8,9,86,4,"Safety talk held this morning, no incidents.",0,0
+2024-09-11,Drywall-B,6,9,117,3,"Crew moving fast, materials arrived on time.",0,0
+2024-09-12,Drywall-B,7,14,60,5,"Confusion on drawings for HVAC, had to stop work.",0,1990
+2024-09-13,Drywall-B,5,9,104,4,"Ahead of schedule, inspection passed.",0,0
+2024-09-14,Drywall-B,8,10,45,6,"Confusion on drawings for HVAC, had to stop work.",1,0
+2024-09-15,Drywall-B,6,8,120,5,"Crew moving fast, materials arrived on time.",0,0
+2024-09-16,Drywall-B,8,8,114,4,"Productive day, finished Zone A early.",0,0
+2024-09-17,Drywall-B,7,9,117,3,"Ahead of schedule, inspection passed.",0,0
+2024-09-18,Drywall-B,5,14,64,5,"Waiting on RFI response, crew standing around.",0,2257
+2024-09-19,Drywall-B,7,9,112,4,"Productive day, finished Zone A early.",0,0
+2024-09-20,Drywall-B,5,9,118,3,"Crew moving fast, materials arrived on time.",0,0
+2024-09-21,Drywall-B,6,9,87,3,"Weather overcast, work continuing.",0,0
+2024-09-22,Drywall-B,8,8,117,2,"Productive day, finished Zone A early.",0,0
+2024-09-23,Drywall-B,8,8,109,1,"Great weather, slab pour went perfectly.",0,0
+2024-09-24,Drywall-B,7,9,82,1,"Weather overcast, work continuing.",0,0
+2024-09-25,Drywall-B,7,8,83,1,"Weather overcast, work continuing.",0,0
+2024-09-26,Drywall-B,7,9,100,1,"Crew size normal, steady pace.",0,0
+2024-09-27,Drywall-B,7,9,100,0,"Productive day, finished Zone A early.",0,0
+2024-09-28,Drywall-B,6,9,103,0,"Team is in good rhythm, no safety issues.",0,0
+2024-09-29,Drywall-B,8,9,80,0,"Safety talk held this morning, no incidents.",0,0
+2024-09-30,Drywall-B,5,9,116,0,"Productive day, finished Zone A early.",0,0
+2024-10-01,Drywall-B,5,8,82,0,"Standard progress, nothing to report.",0,0
+2024-10-02,Drywall-B,5,10,93,0,Routine install in Zone B.,0,0
+2024-10-03,Drywall-B,5,10,80,0,"Weather overcast, work continuing.",0,0
+2024-10-04,Drywall-B,5,8,106,0,"Productive day, finished Zone A early.",0,0
+2024-10-05,Drywall-B,5,9,88,0,"Safety talk held this morning, no incidents.",0,0
+2024-10-06,Drywall-B,8,9,91,0,"Weather overcast, work continuing.",0,0
+2024-10-07,Drywall-B,8,9,114,0,"Team is in good rhythm, no safety issues.",0,0
+2024-10-08,Drywall-B,6,8,86,0,"Weather overcast, work continuing.",0,0
+2024-10-09,Drywall-B,5,9,82,0,"Crew size normal, steady pace.",0,0
+2024-10-10,Drywall-B,7,8,94,0,"Crew size normal, steady pace.",0,0
+2024-10-11,Drywall-B,8,11,52,2,"Waiting on RFI response, crew standing around.",1,0
+2024-10-12,Drywall-B,8,9,120,1,"Team is in good rhythm, no safety issues.",0,0
+2024-10-13,Drywall-B,8,8,105,0,"Crew moving fast, materials arrived on time.",0,0
+2024-10-14,Drywall-B,8,8,103,0,"Productive day, finished Zone A early.",0,0
+2024-10-15,Drywall-B,5,10,45,2,"Crew exhausted from overtime, morale is low.",0,1751
+2024-10-16,Drywall-B,7,11,52,4,"Waiting on RFI response, crew standing around.",0,0
+2024-10-17,Drywall-B,5,9,102,3,"Productive day, finished Zone A early.",0,0
+2024-10-18,Drywall-B,8,10,93,3,"Standard progress, nothing to report.",0,0
+2024-10-19,Drywall-B,8,8,111,2,"Great weather, slab pour went perfectly.",0,0
+2024-10-20,Drywall-B,5,8,118,1,"Ahead of schedule, inspection passed.",0,0
+2024-10-21,Drywall-B,5,10,95,1,Routine install in Zone B.,0,0
+2024-10-22,Drywall-B,7,11,58,3,"Crew exhausted from overtime, morale is low.",0,1472
+2024-10-23,Drywall-B,6,10,93,3,"Crew size normal, steady pace.",0,0
+2024-10-24,Drywall-B,5,8,115,2,"Ahead of schedule, inspection passed.",0,0
+2024-10-25,Drywall-B,7,8,110,1,"Crew moving fast, materials arrived on time.",0,0
+2024-10-26,Drywall-B,6,8,95,1,Routine install in Zone B.,0,0
+2024-10-27,Drywall-B,7,9,91,1,"Standard progress, nothing to report.",0,0
+2024-10-28,Drywall-B,7,9,83,1,"Standard progress, nothing to report.",0,0
+2024-10-29,Drywall-B,6,12,45,3,"Waiting on RFI response, crew standing around.",1,0
+2024-10-30,Drywall-B,5,8,116,2,"Great weather, slab pour went perfectly.",0,0
+2024-10-31,Drywall-B,6,9,105,1,"Productive day, finished Zone A early.",0,0
+2024-11-01,Drywall-B,5,8,118,0,"Great weather, slab pour went perfectly.",0,0
+2024-11-02,Drywall-B,8,9,114,0,"Great weather, slab pour went perfectly.",0,0
+2024-11-03,Drywall-B,6,10,56,2,"Material delivery late, caused bottleneck.",1,0
+2024-11-04,Drywall-B,6,9,114,1,"Great weather, slab pour went perfectly.",0,0
+2024-11-05,Drywall-B,6,8,99,1,"Crew size normal, steady pace.",0,0
+2024-11-06,Drywall-B,6,9,83,1,"Safety talk held this morning, no incidents.",0,0
+2024-11-07,Drywall-B,5,13,48,3,Argument with sub trade over laydown area.,1,2599
+2024-11-08,Drywall-B,5,12,58,5,"Crew exhausted from overtime, morale is low.",0,1492
+2024-11-09,Drywall-B,6,14,57,7,"Rain delay caused slip hazards, slowed down install.",0,0
+2024-11-10,Drywall-B,6,9,82,7,"Safety talk held this morning, no incidents.",0,0
+2024-11-11,Drywall-B,6,10,100,7,"Standard progress, nothing to report.",0,0
+2024-11-12,Drywall-B,5,9,119,6,"Ahead of schedule, inspection passed.",0,0
+2024-11-13,Drywall-B,6,9,100,5,"Great weather, slab pour went perfectly.",0,0
+2024-11-14,Drywall-B,8,14,49,7,Argument with sub trade over laydown area.,0,2732
+2024-11-15,Drywall-B,7,9,106,6,"Crew moving fast, materials arrived on time.",0,0
+2024-11-16,Drywall-B,7,8,102,5,"Productive day, finished Zone A early.",0,0
+2024-11-17,Drywall-B,5,10,91,5,Routine install in Zone B.,0,0
+2024-11-18,Drywall-B,7,9,108,4,"Ahead of schedule, inspection passed.",0,0
+2024-11-19,Drywall-B,5,9,114,3,"Ahead of schedule, inspection passed.",0,0
+2024-11-20,Drywall-B,8,9,104,2,"Team is in good rhythm, no safety issues.",0,0
+2024-11-21,Drywall-B,5,9,108,1,"Great weather, slab pour went perfectly.",0,0
+2024-11-22,Drywall-B,5,10,94,1,Routine install in Zone B.,0,0
+2024-11-23,Drywall-B,8,9,112,0,"Great weather, slab pour went perfectly.",0,0
+2024-11-24,Drywall-B,7,9,108,0,"Crew moving fast, materials arrived on time.",0,0
+2024-11-25,Drywall-B,5,10,82,0,"Weather overcast, work continuing.",0,0
+2024-11-26,Drywall-B,5,8,84,0,Routine install in Zone B.,0,0
+2024-11-27,Drywall-B,5,9,106,0,"Productive day, finished Zone A early.",0,0
+2024-11-28,Drywall-B,7,8,118,0,"Crew moving fast, materials arrived on time.",0,0
+2024-11-29,Drywall-B,7,9,100,0,"Ahead of schedule, inspection passed.",0,0
+2024-11-30,Drywall-B,8,9,114,0,"Great weather, slab pour went perfectly.",0,0
+2024-12-01,Drywall-B,8,10,96,0,Routine install in Zone B.,0,0
+2024-12-02,Drywall-B,6,9,91,0,"Crew size normal, steady pace.",0,0
+2024-12-03,Drywall-B,5,10,84,0,Routine install in Zone B.,0,0
+2024-12-04,Drywall-B,6,9,93,0,"Safety talk held this morning, no incidents.",0,0
+2024-12-05,Drywall-B,6,9,114,0,"Team is in good rhythm, no safety issues.",0,0
+2024-12-06,Drywall-B,6,9,106,0,"Ahead of schedule, inspection passed.",0,0
+2024-12-07,Drywall-B,7,14,52,2,"Material delivery late, caused bottleneck.",0,4030
+2024-12-08,Drywall-B,7,9,102,1,"Productive day, finished Zone A early.",0,0
+2024-12-09,Drywall-B,6,9,119,0,"Great weather, slab pour went perfectly.",0,0
+2024-12-10,Drywall-B,6,9,103,0,"Productive day, finished Zone A early.",0,0
+2024-12-11,Drywall-B,6,8,108,0,"Great weather, slab pour went perfectly.",0,0
+2024-12-12,Drywall-B,8,9,85,0,"Crew size normal, steady pace.",0,0
+2024-12-13,Drywall-B,7,8,105,0,"Ahead of schedule, inspection passed.",0,0
+2024-12-14,Drywall-B,5,8,99,0,"Crew size normal, steady pace.",0,0
+2024-12-15,Drywall-B,6,8,106,0,"Team is in good rhythm, no safety issues.",0,0
+2024-12-16,Drywall-B,7,9,108,0,"Great weather, slab pour went perfectly.",0,0
+2024-12-17,Drywall-B,8,9,81,0,"Standard progress, nothing to report.",0,0
+2024-12-18,Drywall-B,7,9,91,0,"Crew size normal, steady pace.",0,0
+2024-12-19,Drywall-B,7,9,115,0,"Great weather, slab pour went perfectly.",0,0
+2024-12-20,Drywall-B,8,8,100,0,"Safety talk held this morning, no incidents.",0,0
+2024-12-21,Drywall-B,8,8,110,0,"Crew moving fast, materials arrived on time.",0,0
+2024-12-22,Drywall-B,6,12,51,2,"Crew exhausted from overtime, morale is low.",0,4337
+2024-12-23,Drywall-B,8,9,91,2,"Weather overcast, work continuing.",0,0
+2024-12-24,Drywall-B,8,8,101,1,"Great weather, slab pour went perfectly.",0,0
+2024-12-25,Drywall-B,5,8,113,0,"Productive day, finished Zone A early.",0,0
+2024-12-26,Drywall-B,8,10,46,2,"Waiting on RFI response, crew standing around.",1,3274
+2024-12-27,Drywall-B,6,10,81,2,Routine install in Zone B.,0,0
+2024-12-28,Drywall-B,5,8,104,1,"Productive day, finished Zone A early.",0,0
+2024-12-29,Drywall-B,7,10,98,1,"Standard progress, nothing to report.",0,0
+2024-12-30,Drywall-B,7,9,118,0,"Crew moving fast, materials arrived on time.",0,0
+2024-01-01,Concrete-1,8,8,102,0,"Great weather, slab pour went perfectly.",0,0
+2024-01-02,Concrete-1,6,9,89,0,Routine install in Zone B.,0,0
+2024-01-03,Concrete-1,5,8,100,0,"Great weather, slab pour went perfectly.",0,0
+2024-01-04,Concrete-1,7,8,97,0,"Safety talk held this morning, no incidents.",0,0
+2024-01-05,Concrete-1,8,9,103,0,"Team is in good rhythm, no safety issues.",0,0
+2024-01-06,Concrete-1,6,9,106,0,"Ahead of schedule, inspection passed.",0,0
+2024-01-07,Concrete-1,6,14,48,2,"Rework needed on wall framing, incorrect specs.",0,0
+2024-01-08,Concrete-1,8,8,82,2,"Weather overcast, work continuing.",0,0
+2024-01-09,Concrete-1,8,8,106,1,"Productive day, finished Zone A early.",0,0
+2024-01-10,Concrete-1,8,8,96,1,"Standard progress, nothing to report.",0,0
+2024-01-11,Concrete-1,8,8,99,1,"Weather overcast, work continuing.",0,0
+2024-01-12,Concrete-1,8,13,52,3,"Crew exhausted from overtime, morale is low.",0,3692
+2024-01-13,Concrete-1,7,9,109,2,"Productive day, finished Zone A early.",0,0
+2024-01-14,Concrete-1,8,10,91,2,"Safety talk held this morning, no incidents.",0,0
+2024-01-15,Concrete-1,5,13,48,4,"Material delivery late, caused bottleneck.",0,1388
+2024-01-16,Concrete-1,7,8,109,3,"Productive day, finished Zone A early.",0,0
+2024-01-17,Concrete-1,7,8,103,2,"Productive day, finished Zone A early.",0,0
+2024-01-18,Concrete-1,8,9,118,1,"Crew moving fast, materials arrived on time.",0,0
+2024-01-19,Concrete-1,7,8,100,0,"Great weather, slab pour went perfectly.",0,0
+2024-01-20,Concrete-1,5,8,106,0,"Great weather, slab pour went perfectly.",0,0
+2024-01-21,Concrete-1,8,10,83,0,"Weather overcast, work continuing.",0,0
+2024-01-22,Concrete-1,8,8,100,0,"Ahead of schedule, inspection passed.",0,0
+2024-01-23,Concrete-1,5,8,103,0,"Great weather, slab pour went perfectly.",0,0
+2024-01-24,Concrete-1,8,11,56,2,"Crew exhausted from overtime, morale is low.",0,0
+2024-01-25,Concrete-1,5,9,90,2,Routine install in Zone B.,0,0
+2024-01-26,Concrete-1,8,8,97,2,"Weather overcast, work continuing.",0,0
+2024-01-27,Concrete-1,5,9,120,1,"Crew moving fast, materials arrived on time.",0,0
+2024-01-28,Concrete-1,7,8,119,0,"Team is in good rhythm, no safety issues.",0,0
+2024-01-29,Concrete-1,7,8,105,0,"Productive day, finished Zone A early.",0,0
+2024-01-30,Concrete-1,6,8,100,0,"Crew moving fast, materials arrived on time.",0,0
+2024-01-31,Concrete-1,8,8,100,0,"Team is in good rhythm, no safety issues.",0,0
+2024-02-01,Concrete-1,7,13,50,2,Argument with sub trade over laydown area.,0,0
+2024-02-02,Concrete-1,6,8,113,1,"Team is in good rhythm, no safety issues.",0,0
+2024-02-03,Concrete-1,8,9,106,0,"Great weather, slab pour went perfectly.",0,0
+2024-02-04,Concrete-1,6,8,118,0,"Team is in good rhythm, no safety issues.",0,0
+2024-02-05,Concrete-1,7,12,55,2,"Waiting on RFI response, crew standing around.",0,1824
+2024-02-06,Concrete-1,8,8,97,2,"Weather overcast, work continuing.",0,0
+2024-02-07,Concrete-1,6,9,104,1,"Crew moving fast, materials arrived on time.",0,0
+2024-02-08,Concrete-1,6,9,106,0,"Crew moving fast, materials arrived on time.",0,0
+2024-02-09,Concrete-1,8,9,108,0,"Crew moving fast, materials arrived on time.",0,0
+2024-02-10,Concrete-1,5,9,118,0,"Team is in good rhythm, no safety issues.",0,0
+2024-02-11,Concrete-1,5,9,117,0,"Team is in good rhythm, no safety issues.",0,0
+2024-02-12,Concrete-1,7,8,109,0,"Great weather, slab pour went perfectly.",0,0
+2024-02-13,Concrete-1,6,8,115,0,"Great weather, slab pour went perfectly.",0,0
+2024-02-14,Concrete-1,7,9,109,0,"Great weather, slab pour went perfectly.",0,0
+2024-02-15,Concrete-1,6,9,108,0,"Great weather, slab pour went perfectly.",0,0
+2024-02-16,Concrete-1,8,9,120,0,"Ahead of schedule, inspection passed.",0,0
+2024-02-17,Concrete-1,7,8,118,0,"Crew moving fast, materials arrived on time.",0,0
+2024-02-18,Concrete-1,6,13,62,2,"Material delivery late, caused bottleneck.",0,0
+2024-02-19,Concrete-1,6,9,103,1,"Productive day, finished Zone A early.",0,0
+2024-02-20,Concrete-1,6,9,113,0,"Ahead of schedule, inspection passed.",0,0
+2024-02-21,Concrete-1,6,9,108,0,"Great weather, slab pour went perfectly.",0,0
+2024-02-22,Concrete-1,6,10,80,0,Routine install in Zone B.,0,0
+2024-02-23,Concrete-1,8,9,113,0,"Great weather, slab pour went perfectly.",0,0
+2024-02-24,Concrete-1,7,14,59,2,"Confusion on drawings for HVAC, had to stop work.",0,0
+2024-02-25,Concrete-1,8,8,109,1,"Ahead of schedule, inspection passed.",0,0
+2024-02-26,Concrete-1,8,9,117,0,"Crew moving fast, materials arrived on time.",0,0
+2024-02-27,Concrete-1,5,13,40,2,"Rain delay caused slip hazards, slowed down install.",0,2702
+2024-02-28,Concrete-1,8,8,105,1,"Ahead of schedule, inspection passed.",0,0
+2024-02-29,Concrete-1,6,8,112,0,"Crew moving fast, materials arrived on time.",0,0
+2024-03-01,Concrete-1,5,9,120,0,"Ahead of schedule, inspection passed.",0,0
+2024-03-02,Concrete-1,8,9,106,0,"Team is in good rhythm, no safety issues.",0,0
+2024-03-03,Concrete-1,8,8,120,0,"Productive day, finished Zone A early.",0,0
+2024-03-04,Concrete-1,6,10,80,0,"Weather overcast, work continuing.",0,0
+2024-03-05,Concrete-1,6,9,114,0,"Ahead of schedule, inspection passed.",0,0
+2024-03-06,Concrete-1,5,10,59,2,"Rain delay caused slip hazards, slowed down install.",0,0
+2024-03-07,Concrete-1,6,10,83,2,Routine install in Zone B.,0,0
+2024-03-08,Concrete-1,7,9,113,1,"Crew moving fast, materials arrived on time.",0,0
+2024-03-09,Concrete-1,5,10,86,1,"Crew size normal, steady pace.",0,0
+2024-03-10,Concrete-1,5,10,81,1,"Crew size normal, steady pace.",0,0
+2024-03-11,Concrete-1,7,8,109,0,"Great weather, slab pour went perfectly.",0,0
+2024-03-12,Concrete-1,7,9,102,0,"Productive day, finished Zone A early.",0,0
+2024-03-13,Concrete-1,6,8,111,0,"Great weather, slab pour went perfectly.",0,0
+2024-03-14,Concrete-1,6,8,106,0,"Ahead of schedule, inspection passed.",0,0
+2024-03-15,Concrete-1,5,10,80,0,"Standard progress, nothing to report.",0,0
+2024-03-16,Concrete-1,6,10,96,0,"Crew size normal, steady pace.",0,0
+2024-03-17,Concrete-1,5,8,94,0,Routine install in Zone B.,0,0
+2024-03-18,Concrete-1,8,8,113,0,"Team is in good rhythm, no safety issues.",0,0
+2024-03-19,Concrete-1,5,10,41,2,"Waiting on RFI response, crew standing around.",0,0
+2024-03-20,Concrete-1,6,9,115,1,"Ahead of schedule, inspection passed.",0,0
+2024-03-21,Concrete-1,7,9,93,1,Routine install in Zone B.,0,0
+2024-03-22,Concrete-1,6,10,90,1,"Standard progress, nothing to report.",0,0
+2024-03-23,Concrete-1,7,9,83,1,"Weather overcast, work continuing.",0,0
+2024-03-24,Concrete-1,8,13,60,3,"Material delivery late, caused bottleneck.",0,0
+2024-03-25,Concrete-1,6,9,80,3,"Standard progress, nothing to report.",0,0
+2024-03-26,Concrete-1,7,9,111,2,"Productive day, finished Zone A early.",0,0
+2024-03-27,Concrete-1,6,10,86,2,"Safety talk held this morning, no incidents.",0,0
+2024-03-28,Concrete-1,7,13,43,4,Argument with sub trade over laydown area.,1,4632
+2024-03-29,Concrete-1,5,9,108,3,"Team is in good rhythm, no safety issues.",0,0
+2024-03-30,Concrete-1,7,9,88,3,Routine install in Zone B.,0,0
+2024-03-31,Concrete-1,6,10,85,3,"Safety talk held this morning, no incidents.",0,0
+2024-04-01,Concrete-1,7,9,116,2,"Productive day, finished Zone A early.",0,0
+2024-04-02,Concrete-1,5,9,115,1,"Team is in good rhythm, no safety issues.",0,0
+2024-04-03,Concrete-1,6,8,102,0,"Productive day, finished Zone A early.",0,0
+2024-04-04,Concrete-1,8,10,85,0,"Safety talk held this morning, no incidents.",0,0
+2024-04-05,Concrete-1,7,8,117,0,"Team is in good rhythm, no safety issues.",0,0
+2024-04-06,Concrete-1,7,9,113,0,"Great weather, slab pour went perfectly.",0,0
+2024-04-07,Concrete-1,8,13,62,2,"Rain delay caused slip hazards, slowed down install.",0,0
+2024-04-08,Concrete-1,6,9,120,1,"Ahead of schedule, inspection passed.",0,0
+2024-04-09,Concrete-1,8,9,104,0,"Team is in good rhythm, no safety issues.",0,0
+2024-04-10,Concrete-1,6,8,107,0,"Crew moving fast, materials arrived on time.",0,0
+2024-04-11,Concrete-1,5,10,90,0,"Weather overcast, work continuing.",0,0
+2024-04-12,Concrete-1,7,9,99,0,"Crew size normal, steady pace.",0,0
+2024-04-13,Concrete-1,8,9,106,0,"Team is in good rhythm, no safety issues.",0,0
+2024-04-14,Concrete-1,7,8,92,0,"Standard progress, nothing to report.",0,0
+2024-04-15,Concrete-1,6,13,53,2,"Crew exhausted from overtime, morale is low.",0,4872
+2024-04-16,Concrete-1,5,9,113,1,"Crew moving fast, materials arrived on time.",0,0
+2024-04-17,Concrete-1,6,8,118,0,"Ahead of schedule, inspection passed.",0,0
+2024-04-18,Concrete-1,6,8,80,0,"Standard progress, nothing to report.",0,0
+2024-04-19,Concrete-1,8,9,102,0,"Crew moving fast, materials arrived on time.",0,0
+2024-04-20,Concrete-1,8,8,104,0,"Team is in good rhythm, no safety issues.",0,0
+2024-04-21,Concrete-1,6,10,80,0,"Standard progress, nothing to report.",0,0
+2024-04-22,Concrete-1,6,8,112,0,"Team is in good rhythm, no safety issues.",0,0
+2024-04-23,Concrete-1,8,8,118,0,"Productive day, finished Zone A early.",0,0
+2024-04-24,Concrete-1,6,8,117,0,"Ahead of schedule, inspection passed.",0,0
+2024-04-25,Concrete-1,5,9,118,0,"Ahead of schedule, inspection passed.",0,0
+2024-04-26,Concrete-1,6,9,108,0,"Team is in good rhythm, no safety issues.",0,0
+2024-04-27,Concrete-1,6,10,59,2,"Crew exhausted from overtime, morale is low.",0,4485
+2024-04-28,Concrete-1,6,8,80,2,"Weather overcast, work continuing.",0,0
+2024-04-29,Concrete-1,8,8,111,1,"Ahead of schedule, inspection passed.",0,0
+2024-04-30,Concrete-1,7,9,104,0,"Crew moving fast, materials arrived on time.",0,0
+2024-05-01,Concrete-1,5,8,96,0,Routine install in Zone B.,0,0
+2024-05-02,Concrete-1,7,10,98,0,Routine install in Zone B.,0,0
+2024-05-03,Concrete-1,7,10,82,0,"Standard progress, nothing to report.",0,0
+2024-05-04,Concrete-1,5,9,110,0,"Ahead of schedule, inspection passed.",0,0
+2024-05-05,Concrete-1,5,9,100,0,"Team is in good rhythm, no safety issues.",0,0
+2024-05-06,Concrete-1,7,9,92,0,"Crew size normal, steady pace.",0,0
+2024-05-07,Concrete-1,7,9,105,0,"Team is in good rhythm, no safety issues.",0,0
+2024-05-08,Concrete-1,8,9,101,0,"Team is in good rhythm, no safety issues.",0,0
+2024-05-09,Concrete-1,5,8,84,0,"Standard progress, nothing to report.",0,0
+2024-05-10,Concrete-1,6,9,92,0,"Weather overcast, work continuing.",0,0
+2024-05-11,Concrete-1,5,8,120,0,"Ahead of schedule, inspection passed.",0,0
+2024-05-12,Concrete-1,7,8,97,0,"Weather overcast, work continuing.",0,0
+2024-05-13,Concrete-1,5,9,89,0,Routine install in Zone B.,0,0
+2024-05-14,Concrete-1,6,12,66,2,"Rework needed on wall framing, incorrect specs.",1,1586
+2024-05-15,Concrete-1,6,9,107,1,"Crew moving fast, materials arrived on time.",0,0
+2024-05-16,Concrete-1,6,8,100,1,Routine install in Zone B.,0,0
+2024-05-17,Concrete-1,6,8,109,0,"Productive day, finished Zone A early.",0,0
+2024-05-18,Concrete-1,8,9,80,0,"Standard progress, nothing to report.",0,0
+2024-05-19,Concrete-1,7,8,91,0,"Safety talk held this morning, no incidents.",0,0
+2024-05-20,Concrete-1,8,9,108,0,"Team is in good rhythm, no safety issues.",0,0
+2024-05-21,Concrete-1,8,8,108,0,"Productive day, finished Zone A early.",0,0
+2024-05-22,Concrete-1,5,8,111,0,"Productive day, finished Zone A early.",0,0
+2024-05-23,Concrete-1,8,9,106,0,"Team is in good rhythm, no safety issues.",0,0
+2024-05-24,Concrete-1,6,8,86,0,"Safety talk held this morning, no incidents.",0,0
+2024-05-25,Concrete-1,7,9,94,0,"Weather overcast, work continuing.",0,0
+2024-05-26,Concrete-1,7,10,82,0,"Standard progress, nothing to report.",0,0
+2024-05-27,Concrete-1,7,9,101,0,"Team is in good rhythm, no safety issues.",0,0
+2024-05-28,Concrete-1,8,9,101,0,"Productive day, finished Zone A early.",0,0
+2024-05-29,Concrete-1,7,8,113,0,"Productive day, finished Zone A early.",0,0
+2024-05-30,Concrete-1,5,10,99,0,"Safety talk held this morning, no incidents.",0,0
+2024-05-31,Concrete-1,8,11,58,2,"Crew exhausted from overtime, morale is low.",1,0
+2024-06-01,Concrete-1,5,8,100,1,"Productive day, finished Zone A early.",0,0
+2024-06-02,Concrete-1,5,14,59,3,"Confusion on drawings for HVAC, had to stop work.",1,0
+2024-06-03,Concrete-1,7,8,106,2,"Crew moving fast, materials arrived on time.",0,0
+2024-06-04,Concrete-1,6,8,111,1,"Productive day, finished Zone A early.",0,0
+2024-06-05,Concrete-1,7,9,119,0,"Ahead of schedule, inspection passed.",0,0
+2024-06-06,Concrete-1,5,8,84,0,"Safety talk held this morning, no incidents.",0,0
+2024-06-07,Concrete-1,5,8,108,0,"Ahead of schedule, inspection passed.",0,0
+2024-06-08,Concrete-1,7,9,113,0,"Crew moving fast, materials arrived on time.",0,0
+2024-06-09,Concrete-1,5,14,61,2,"Crew exhausted from overtime, morale is low.",1,4858
+2024-06-10,Concrete-1,5,12,70,4,"Rework needed on wall framing, incorrect specs.",1,0
+2024-06-11,Concrete-1,6,8,87,4,"Crew size normal, steady pace.",0,0
+2024-06-12,Concrete-1,5,9,84,4,"Safety talk held this morning, no incidents.",0,0
+2024-06-13,Concrete-1,5,11,70,6,"Crew exhausted from overtime, morale is low.",0,3016
+2024-06-14,Concrete-1,7,8,93,6,Routine install in Zone B.,0,0
+2024-06-15,Concrete-1,7,12,49,8,"Crew exhausted from overtime, morale is low.",0,4835
+2024-06-16,Concrete-1,8,9,81,8,"Safety talk held this morning, no incidents.",0,0
+2024-06-17,Concrete-1,7,9,92,8,"Safety talk held this morning, no incidents.",0,0
+2024-06-18,Concrete-1,6,8,118,7,"Great weather, slab pour went perfectly.",0,0
+2024-06-19,Concrete-1,7,8,112,6,"Great weather, slab pour went perfectly.",0,0
+2024-06-20,Concrete-1,6,9,107,5,"Crew moving fast, materials arrived on time.",0,0
+2024-06-21,Concrete-1,6,13,43,7,"Confusion on drawings for HVAC, had to stop work.",0,0
+2024-06-22,Concrete-1,5,10,91,7,"Crew size normal, steady pace.",0,0
+2024-06-23,Concrete-1,8,9,115,6,"Ahead of schedule, inspection passed.",0,0
+2024-06-24,Concrete-1,5,10,100,6,Routine install in Zone B.,0,0
+2024-06-25,Concrete-1,7,9,118,5,"Team is in good rhythm, no safety issues.",0,0
+2024-06-26,Concrete-1,5,8,117,4,"Team is in good rhythm, no safety issues.",0,0
+2024-06-27,Concrete-1,5,9,112,3,"Crew moving fast, materials arrived on time.",0,0
+2024-06-28,Concrete-1,5,9,113,2,"Ahead of schedule, inspection passed.",0,0
+2024-06-29,Concrete-1,8,9,100,2,"Safety talk held this morning, no incidents.",0,0
+2024-06-30,Concrete-1,7,9,102,1,"Ahead of schedule, inspection passed.",0,0
+2024-07-01,Concrete-1,6,14,66,3,"Rain delay caused slip hazards, slowed down install.",0,0
+2024-07-02,Concrete-1,5,8,114,2,"Team is in good rhythm, no safety issues.",0,0
+2024-07-03,Concrete-1,7,9,96,2,"Weather overcast, work continuing.",0,0
+2024-07-04,Concrete-1,8,14,56,4,"Crew exhausted from overtime, morale is low.",1,2937
+2024-07-05,Concrete-1,5,13,64,6,Argument with sub trade over laydown area.,1,4889
+2024-07-06,Concrete-1,6,14,44,8,"Rework needed on wall framing, incorrect specs.",0,2630
+2024-07-07,Concrete-1,6,8,102,7,"Crew moving fast, materials arrived on time.",0,0
+2024-07-08,Concrete-1,5,14,65,9,"Rework needed on wall framing, incorrect specs.",1,0
+2024-07-09,Concrete-1,5,8,108,8,"Crew moving fast, materials arrived on time.",0,0
+2024-07-10,Concrete-1,8,14,56,10,"Material delivery late, caused bottleneck.",0,2046
+2024-07-11,Concrete-1,7,8,109,9,"Great weather, slab pour went perfectly.",0,0
+2024-07-12,Concrete-1,5,8,102,8,"Great weather, slab pour went perfectly.",0,0
+2024-07-13,Concrete-1,5,9,112,7,"Crew moving fast, materials arrived on time.",0,0
+2024-07-14,Concrete-1,6,13,50,9,"Crew exhausted from overtime, morale is low.",0,2306
+2024-07-15,Concrete-1,8,8,103,8,"Ahead of schedule, inspection passed.",0,0
+2024-07-16,Concrete-1,8,8,108,7,"Great weather, slab pour went perfectly.",0,0
+2024-07-17,Concrete-1,7,8,114,6,"Great weather, slab pour went perfectly.",0,0
+2024-07-18,Concrete-1,6,9,113,5,"Productive day, finished Zone A early.",0,0
+2024-07-19,Concrete-1,7,11,55,7,"Rain delay caused slip hazards, slowed down install.",0,3493
+2024-07-20,Concrete-1,8,10,53,9,"Waiting on RFI response, crew standing around.",0,0
+2024-07-21,Concrete-1,6,10,98,9,"Crew size normal, steady pace.",0,0
+2024-07-22,Concrete-1,8,9,97,9,"Crew size normal, steady pace.",0,0
+2024-07-23,Concrete-1,5,8,108,8,"Ahead of schedule, inspection passed.",0,0
+2024-07-24,Concrete-1,8,13,42,10,"Material delivery late, caused bottleneck.",1,0
+2024-07-25,Concrete-1,7,9,116,9,"Great weather, slab pour went perfectly.",0,0
+2024-07-26,Concrete-1,6,8,115,8,"Ahead of schedule, inspection passed.",0,0
+2024-07-27,Concrete-1,5,8,100,7,"Great weather, slab pour went perfectly.",0,0
+2024-07-28,Concrete-1,6,13,62,9,"Confusion on drawings for HVAC, had to stop work.",0,0
+2024-07-29,Concrete-1,6,8,101,8,"Crew moving fast, materials arrived on time.",0,0
+2024-07-30,Concrete-1,8,9,119,7,"Crew moving fast, materials arrived on time.",0,0
+2024-07-31,Concrete-1,7,12,41,9,"Confusion on drawings for HVAC, had to stop work.",0,0
+2024-08-01,Concrete-1,5,13,57,11,Argument with sub trade over laydown area.,0,0
+2024-08-02,Concrete-1,8,8,118,10,"Crew moving fast, materials arrived on time.",0,0
+2024-08-03,Concrete-1,8,8,96,10,Routine install in Zone B.,0,0
+2024-08-04,Concrete-1,8,8,101,9,"Crew moving fast, materials arrived on time.",0,0
+2024-08-05,Concrete-1,8,9,101,8,"Great weather, slab pour went perfectly.",0,0
+2024-08-06,Concrete-1,7,8,113,7,"Crew moving fast, materials arrived on time.",0,0
+2024-08-07,Concrete-1,5,14,50,9,"Crew exhausted from overtime, morale is low.",1,4857
+2024-08-08,Concrete-1,6,10,53,11,"Material delivery late, caused bottleneck.",0,2355
+2024-08-09,Concrete-1,5,9,106,10,"Ahead of schedule, inspection passed.",0,0
+2024-08-10,Concrete-1,7,10,84,10,"Weather overcast, work continuing.",0,0
+2024-08-11,Concrete-1,6,8,103,9,"Ahead of schedule, inspection passed.",0,0
+2024-08-12,Concrete-1,6,8,94,9,Routine install in Zone B.,0,0
+2024-08-13,Concrete-1,6,9,100,8,"Team is in good rhythm, no safety issues.",0,0
+2024-08-14,Concrete-1,6,9,101,7,"Productive day, finished Zone A early.",0,0
+2024-08-15,Concrete-1,8,9,102,6,"Productive day, finished Zone A early.",0,0
+2024-08-16,Concrete-1,6,8,105,5,"Great weather, slab pour went perfectly.",0,0
+2024-08-17,Concrete-1,7,8,110,4,"Great weather, slab pour went perfectly.",0,0
+2024-08-18,Concrete-1,5,9,105,3,"Ahead of schedule, inspection passed.",0,0
+2024-08-19,Concrete-1,7,10,87,3,"Weather overcast, work continuing.",0,0
+2024-08-20,Concrete-1,7,9,109,2,"Crew moving fast, materials arrived on time.",0,0
+2024-08-21,Concrete-1,5,9,104,1,"Ahead of schedule, inspection passed.",0,0
+2024-08-22,Concrete-1,8,9,103,0,"Ahead of schedule, inspection passed.",0,0
+2024-08-23,Concrete-1,5,8,109,0,"Team is in good rhythm, no safety issues.",0,0
+2024-08-24,Concrete-1,8,8,117,0,"Ahead of schedule, inspection passed.",0,0
+2024-08-25,Concrete-1,8,8,101,0,"Productive day, finished Zone A early.",0,0
+2024-08-26,Concrete-1,5,9,102,0,"Team is in good rhythm, no safety issues.",0,0
+2024-08-27,Concrete-1,6,9,108,0,"Great weather, slab pour went perfectly.",0,0
+2024-08-28,Concrete-1,8,10,87,0,"Crew size normal, steady pace.",0,0
+2024-08-29,Concrete-1,6,11,51,2,"Rain delay caused slip hazards, slowed down install.",0,1552
+2024-08-30,Concrete-1,6,10,87,2,"Safety talk held this morning, no incidents.",0,0
+2024-08-31,Concrete-1,6,11,49,4,"Waiting on RFI response, crew standing around.",0,0
+2024-09-01,Concrete-1,5,9,93,4,"Safety talk held this morning, no incidents.",0,0
+2024-09-02,Concrete-1,8,9,85,4,"Safety talk held this morning, no incidents.",0,0
+2024-09-03,Concrete-1,8,9,93,4,"Weather overcast, work continuing.",0,0
+2024-09-04,Concrete-1,8,10,81,4,Routine install in Zone B.,0,0
+2024-09-05,Concrete-1,8,10,92,4,"Weather overcast, work continuing.",0,0
+2024-09-06,Concrete-1,7,8,111,3,"Great weather, slab pour went perfectly.",0,0
+2024-09-07,Concrete-1,5,8,113,2,"Great weather, slab pour went perfectly.",0,0
+2024-09-08,Concrete-1,6,8,111,1,"Great weather, slab pour went perfectly.",0,0
+2024-09-09,Concrete-1,5,9,111,0,"Productive day, finished Zone A early.",0,0
+2024-09-10,Concrete-1,7,11,64,2,Argument with sub trade over laydown area.,0,0
+2024-09-11,Concrete-1,6,12,51,4,"Rain delay caused slip hazards, slowed down install.",0,0
+2024-09-12,Concrete-1,5,8,92,4,"Safety talk held this morning, no incidents.",0,0
+2024-09-13,Concrete-1,5,8,108,3,"Team is in good rhythm, no safety issues.",0,0
+2024-09-14,Concrete-1,8,9,105,2,"Team is in good rhythm, no safety issues.",0,0
+2024-09-15,Concrete-1,5,8,120,1,"Ahead of schedule, inspection passed.",0,0
+2024-09-16,Concrete-1,6,8,114,0,"Productive day, finished Zone A early.",0,0
+2024-09-17,Concrete-1,8,11,61,2,"Rework needed on wall framing, incorrect specs.",0,0
+2024-09-18,Concrete-1,8,11,54,4,"Confusion on drawings for HVAC, had to stop work.",1,0
+2024-09-19,Concrete-1,6,9,88,4,Routine install in Zone B.,0,0
+2024-09-20,Concrete-1,8,9,118,3,"Team is in good rhythm, no safety issues.",0,0
+2024-09-21,Concrete-1,6,9,99,3,Routine install in Zone B.,0,0
+2024-09-22,Concrete-1,6,8,89,3,Routine install in Zone B.,0,0
+2024-09-23,Concrete-1,5,12,45,5,"Material delivery late, caused bottleneck.",0,4574
+2024-09-24,Concrete-1,8,9,111,4,"Ahead of schedule, inspection passed.",0,0
+2024-09-25,Concrete-1,7,9,104,3,"Crew moving fast, materials arrived on time.",0,0
+2024-09-26,Concrete-1,7,10,88,3,"Safety talk held this morning, no incidents.",0,0
+2024-09-27,Concrete-1,8,8,108,2,"Crew moving fast, materials arrived on time.",0,0
+2024-09-28,Concrete-1,5,12,55,4,"Rain delay caused slip hazards, slowed down install.",0,0
+2024-09-29,Concrete-1,8,9,101,3,"Ahead of schedule, inspection passed.",0,0
+2024-09-30,Concrete-1,8,10,96,3,"Weather overcast, work continuing.",0,0
+2024-10-01,Concrete-1,7,11,41,5,Argument with sub trade over laydown area.,0,3007
+2024-10-02,Concrete-1,6,10,95,5,"Weather overcast, work continuing.",0,0
+2024-10-03,Concrete-1,6,9,109,4,"Great weather, slab pour went perfectly.",0,0
+2024-10-04,Concrete-1,8,13,63,6,"Material delivery late, caused bottleneck.",1,1738
+2024-10-05,Concrete-1,5,12,44,8,Argument with sub trade over laydown area.,0,0
+2024-10-06,Concrete-1,7,8,89,8,"Safety talk held this morning, no incidents.",0,0
+2024-10-07,Concrete-1,8,12,52,10,"Rain delay caused slip hazards, slowed down install.",0,4102
+2024-10-08,Concrete-1,7,10,97,10,"Standard progress, nothing to report.",0,0
+2024-10-09,Concrete-1,5,8,116,9,"Team is in good rhythm, no safety issues.",0,0
+2024-10-10,Concrete-1,5,8,96,9,"Crew size normal, steady pace.",0,0
+2024-10-11,Concrete-1,8,9,118,8,"Crew moving fast, materials arrived on time.",0,0
+2024-10-12,Concrete-1,8,8,110,7,"Great weather, slab pour went perfectly.",0,0
+2024-10-13,Concrete-1,8,12,69,9,"Waiting on RFI response, crew standing around.",1,2295
+2024-10-14,Concrete-1,6,10,88,9,"Weather overcast, work continuing.",0,0
+2024-10-15,Concrete-1,8,8,91,9,Routine install in Zone B.,0,0
+2024-10-16,Concrete-1,6,10,84,9,"Standard progress, nothing to report.",0,0
+2024-10-17,Concrete-1,7,10,98,9,"Standard progress, nothing to report.",0,0
+2024-10-18,Concrete-1,7,9,107,8,"Great weather, slab pour went perfectly.",0,0
+2024-10-19,Concrete-1,8,14,62,10,"Rework needed on wall framing, incorrect specs.",0,3550
+2024-10-20,Concrete-1,6,11,47,12,"Rain delay caused slip hazards, slowed down install.",1,0
+2024-10-21,Concrete-1,7,8,90,12,"Weather overcast, work continuing.",0,0
+2024-10-22,Concrete-1,8,10,64,14,"Rain delay caused slip hazards, slowed down install.",0,2079
+2024-10-23,Concrete-1,8,8,88,14,"Safety talk held this morning, no incidents.",0,0
+2024-10-24,Concrete-1,8,12,60,16,"Crew exhausted from overtime, morale is low.",0,1917
+2024-10-25,Concrete-1,6,8,113,15,"Ahead of schedule, inspection passed.",0,0
+2024-10-26,Concrete-1,6,14,50,17,"Material delivery late, caused bottleneck.",0,0
+2024-10-27,Concrete-1,6,9,106,16,"Crew moving fast, materials arrived on time.",0,0
+2024-10-28,Concrete-1,8,10,46,18,"Crew exhausted from overtime, morale is low.",0,1866
+2024-10-29,Concrete-1,7,8,105,17,"Team is in good rhythm, no safety issues.",0,0
+2024-10-30,Concrete-1,5,9,82,17,"Crew size normal, steady pace.",0,0
+2024-10-31,Concrete-1,6,9,99,17,"Standard progress, nothing to report.",0,0
+2024-11-01,Concrete-1,7,8,111,16,"Productive day, finished Zone A early.",0,0
+2024-11-02,Concrete-1,5,8,100,15,"Crew moving fast, materials arrived on time.",0,0
+2024-11-03,Concrete-1,8,8,102,14,"Productive day, finished Zone A early.",0,0
+2024-11-04,Concrete-1,7,8,119,13,"Productive day, finished Zone A early.",0,0
+2024-11-05,Concrete-1,6,9,115,12,"Ahead of schedule, inspection passed.",0,0
+2024-11-06,Concrete-1,7,9,107,11,"Crew moving fast, materials arrived on time.",0,0
+2024-11-07,Concrete-1,8,8,117,10,"Productive day, finished Zone A early.",0,0
+2024-11-08,Concrete-1,8,10,84,10,"Safety talk held this morning, no incidents.",0,0
+2024-11-09,Concrete-1,7,8,86,10,"Standard progress, nothing to report.",0,0
+2024-11-10,Concrete-1,7,8,119,9,"Crew moving fast, materials arrived on time.",0,0
+2024-11-11,Concrete-1,5,11,66,11,"Material delivery late, caused bottleneck.",0,4466
+2024-11-12,Concrete-1,6,9,95,11,Routine install in Zone B.,0,0
+2024-11-13,Concrete-1,5,9,117,10,"Productive day, finished Zone A early.",0,0
+2024-11-14,Concrete-1,5,14,45,12,"Waiting on RFI response, crew standing around.",1,3629
+2024-11-15,Concrete-1,7,8,117,11,"Team is in good rhythm, no safety issues.",0,0
+2024-11-16,Concrete-1,6,12,64,13,"Material delivery late, caused bottleneck.",0,3965
+2024-11-17,Concrete-1,5,8,118,12,"Crew moving fast, materials arrived on time.",0,0
+2024-11-18,Concrete-1,5,10,88,12,"Standard progress, nothing to report.",0,0
+2024-11-19,Concrete-1,5,8,87,12,"Crew size normal, steady pace.",0,0
+2024-11-20,Concrete-1,7,8,86,12,Routine install in Zone B.,0,0
+2024-11-21,Concrete-1,5,8,97,12,"Safety talk held this morning, no incidents.",0,0
+2024-11-22,Concrete-1,7,9,119,11,"Crew moving fast, materials arrived on time.",0,0
+2024-11-23,Concrete-1,8,12,50,13,Argument with sub trade over laydown area.,0,0
+2024-11-24,Concrete-1,8,8,101,12,"Team is in good rhythm, no safety issues.",0,0
+2024-11-25,Concrete-1,8,9,114,11,"Productive day, finished Zone A early.",0,0
+2024-11-26,Concrete-1,5,9,93,11,"Safety talk held this morning, no incidents.",0,0
+2024-11-27,Concrete-1,8,10,97,11,"Weather overcast, work continuing.",0,0
+2024-11-28,Concrete-1,5,8,101,10,"Ahead of schedule, inspection passed.",0,0
+2024-11-29,Concrete-1,6,9,103,9,"Productive day, finished Zone A early.",0,0
+2024-11-30,Concrete-1,7,13,69,11,"Material delivery late, caused bottleneck.",0,3866
+2024-12-01,Concrete-1,5,14,47,13,"Rework needed on wall framing, incorrect specs.",0,0
+2024-12-02,Concrete-1,7,8,102,12,"Crew moving fast, materials arrived on time.",0,0
+2024-12-03,Concrete-1,6,8,114,11,"Team is in good rhythm, no safety issues.",0,0
+2024-12-04,Concrete-1,7,10,61,13,"Crew exhausted from overtime, morale is low.",0,0
+2024-12-05,Concrete-1,5,8,109,12,"Team is in good rhythm, no safety issues.",0,0
+2024-12-06,Concrete-1,7,12,62,14,"Waiting on RFI response, crew standing around.",1,0
+2024-12-07,Concrete-1,8,8,100,14,"Safety talk held this morning, no incidents.",0,0
+2024-12-08,Concrete-1,8,8,114,13,"Crew moving fast, materials arrived on time.",0,0
+2024-12-09,Concrete-1,8,10,99,13,"Weather overcast, work continuing.",0,0
+2024-12-10,Concrete-1,8,10,82,13,Routine install in Zone B.,0,0
+2024-12-11,Concrete-1,7,9,110,12,"Crew moving fast, materials arrived on time.",0,0
+2024-12-12,Concrete-1,7,12,56,14,"Rework needed on wall framing, incorrect specs.",0,0
+2024-12-13,Concrete-1,5,12,55,16,"Material delivery late, caused bottleneck.",1,0
+2024-12-14,Concrete-1,5,9,113,15,"Great weather, slab pour went perfectly.",0,0
+2024-12-15,Concrete-1,6,9,81,15,Routine install in Zone B.,0,0
+2024-12-16,Concrete-1,6,10,62,17,"Waiting on RFI response, crew standing around.",0,3110
+2024-12-17,Concrete-1,5,9,98,17,"Standard progress, nothing to report.",0,0
+2024-12-18,Concrete-1,8,9,109,16,"Team is in good rhythm, no safety issues.",0,0
+2024-12-19,Concrete-1,5,9,98,16,Routine install in Zone B.,0,0
+2024-12-20,Concrete-1,7,14,59,18,Argument with sub trade over laydown area.,1,0
+2024-12-21,Concrete-1,7,8,102,17,"Crew moving fast, materials arrived on time.",0,0
+2024-12-22,Concrete-1,5,8,85,17,"Safety talk held this morning, no incidents.",0,0
+2024-12-23,Concrete-1,6,8,88,17,"Safety talk held this morning, no incidents.",0,0
+2024-12-24,Concrete-1,7,11,44,19,"Rework needed on wall framing, incorrect specs.",1,2597
+2024-12-25,Concrete-1,6,9,107,18,"Ahead of schedule, inspection passed.",0,0
+2024-12-26,Concrete-1,6,9,106,17,"Productive day, finished Zone A early.",0,0
+2024-12-27,Concrete-1,8,9,101,16,"Crew moving fast, materials arrived on time.",0,0
+2024-12-28,Concrete-1,7,11,48,18,"Confusion on drawings for HVAC, had to stop work.",1,0
+2024-12-29,Concrete-1,5,12,46,20,"Rework needed on wall framing, incorrect specs.",0,0
+2024-12-30,Concrete-1,5,9,106,19,"Great weather, slab pour went perfectly.",0,0
+2024-01-01,Framing-A,7,8,108,0,"Productive day, finished Zone A early.",0,0
+2024-01-02,Framing-A,6,9,100,0,"Weather overcast, work continuing.",0,0
+2024-01-03,Framing-A,8,9,119,0,"Great weather, slab pour went perfectly.",0,0
+2024-01-04,Framing-A,8,9,120,0,"Crew moving fast, materials arrived on time.",0,0
+2024-01-05,Framing-A,7,9,100,0,"Crew size normal, steady pace.",0,0
+2024-01-06,Framing-A,6,9,91,0,"Weather overcast, work continuing.",0,0
+2024-01-07,Framing-A,8,9,98,0,"Weather overcast, work continuing.",0,0
+2024-01-08,Framing-A,8,8,104,0,"Ahead of schedule, inspection passed.",0,0
+2024-01-09,Framing-A,7,8,103,0,"Productive day, finished Zone A early.",0,0
+2024-01-10,Framing-A,8,8,101,0,"Great weather, slab pour went perfectly.",0,0
+2024-01-11,Framing-A,5,8,85,0,"Standard progress, nothing to report.",0,0
+2024-01-12,Framing-A,8,8,107,0,"Productive day, finished Zone A early.",0,0
+2024-01-13,Framing-A,8,10,52,2,"Crew exhausted from overtime, morale is low.",0,2906
+2024-01-14,Framing-A,6,9,111,1,"Productive day, finished Zone A early.",0,0
+2024-01-15,Framing-A,6,9,101,0,"Ahead of schedule, inspection passed.",0,0
+2024-01-16,Framing-A,8,10,65,2,"Material delivery late, caused bottleneck.",0,3726
+2024-01-17,Framing-A,5,8,119,1,"Productive day, finished Zone A early.",0,0
+2024-01-18,Framing-A,5,12,66,3,"Confusion on drawings for HVAC, had to stop work.",0,1597
+2024-01-19,Framing-A,8,9,104,2,"Team is in good rhythm, no safety issues.",0,0
+2024-01-20,Framing-A,6,9,113,1,"Team is in good rhythm, no safety issues.",0,0
+2024-01-21,Framing-A,5,9,119,0,"Productive day, finished Zone A early.",0,0
+2024-01-22,Framing-A,6,13,40,2,"Crew exhausted from overtime, morale is low.",0,4284
+2024-01-23,Framing-A,5,8,114,1,"Great weather, slab pour went perfectly.",0,0
+2024-01-24,Framing-A,5,13,57,3,"Waiting on RFI response, crew standing around.",0,0
+2024-01-25,Framing-A,5,9,92,3,"Weather overcast, work continuing.",0,0
+2024-01-26,Framing-A,7,9,109,2,"Team is in good rhythm, no safety issues.",0,0
+2024-01-27,Framing-A,8,9,110,1,"Ahead of schedule, inspection passed.",0,0
+2024-01-28,Framing-A,6,12,67,3,"Confusion on drawings for HVAC, had to stop work.",0,0
+2024-01-29,Framing-A,5,8,115,2,"Team is in good rhythm, no safety issues.",0,0
+2024-01-30,Framing-A,7,8,116,1,"Crew moving fast, materials arrived on time.",0,0
+2024-01-31,Framing-A,5,9,84,1,"Weather overcast, work continuing.",0,0
+2024-02-01,Framing-A,7,8,108,0,"Great weather, slab pour went perfectly.",0,0
+2024-02-02,Framing-A,5,8,108,0,"Great weather, slab pour went perfectly.",0,0
+2024-02-03,Framing-A,5,9,106,0,"Ahead of schedule, inspection passed.",0,0
+2024-02-04,Framing-A,8,8,100,0,"Great weather, slab pour went perfectly.",0,0
+2024-02-05,Framing-A,5,8,101,0,"Ahead of schedule, inspection passed.",0,0
+2024-02-06,Framing-A,8,9,110,0,"Team is in good rhythm, no safety issues.",0,0
+2024-02-07,Framing-A,6,10,98,0,Routine install in Zone B.,0,0
+2024-02-08,Framing-A,7,9,100,0,"Team is in good rhythm, no safety issues.",0,0
+2024-02-09,Framing-A,8,8,115,0,"Ahead of schedule, inspection passed.",0,0
+2024-02-10,Framing-A,6,10,51,2,Argument with sub trade over laydown area.,1,2052
+2024-02-11,Framing-A,5,8,115,1,"Great weather, slab pour went perfectly.",0,0
+2024-02-12,Framing-A,6,10,92,1,"Standard progress, nothing to report.",0,0
+2024-02-13,Framing-A,7,8,120,0,"Ahead of schedule, inspection passed.",0,0
+2024-02-14,Framing-A,6,8,108,0,"Crew moving fast, materials arrived on time.",0,0
+2024-02-15,Framing-A,8,8,89,0,Routine install in Zone B.,0,0
+2024-02-16,Framing-A,7,13,59,2,"Crew exhausted from overtime, morale is low.",0,0
+2024-02-17,Framing-A,8,8,118,1,"Ahead of schedule, inspection passed.",0,0
+2024-02-18,Framing-A,7,10,69,3,Argument with sub trade over laydown area.,1,1100
+2024-02-19,Framing-A,7,9,89,3,"Standard progress, nothing to report.",0,0
+2024-02-20,Framing-A,7,9,97,3,Routine install in Zone B.,0,0
+2024-02-21,Framing-A,7,13,63,5,"Crew exhausted from overtime, morale is low.",0,1451
+2024-02-22,Framing-A,7,9,107,4,"Great weather, slab pour went perfectly.",0,0
+2024-02-23,Framing-A,8,9,93,4,"Crew size normal, steady pace.",0,0
+2024-02-24,Framing-A,8,9,108,3,"Productive day, finished Zone A early.",0,0
+2024-02-25,Framing-A,8,8,119,2,"Great weather, slab pour went perfectly.",0,0
+2024-02-26,Framing-A,7,9,111,1,"Ahead of schedule, inspection passed.",0,0
+2024-02-27,Framing-A,7,8,100,0,"Crew moving fast, materials arrived on time.",0,0
+2024-02-28,Framing-A,8,13,60,2,"Confusion on drawings for HVAC, had to stop work.",1,3179
+2024-02-29,Framing-A,7,9,85,2,"Safety talk held this morning, no incidents.",0,0
+2024-03-01,Framing-A,8,9,96,2,"Standard progress, nothing to report.",0,0
+2024-03-02,Framing-A,8,9,84,2,"Standard progress, nothing to report.",0,0
+2024-03-03,Framing-A,8,12,41,4,"Material delivery late, caused bottleneck.",0,2532
+2024-03-04,Framing-A,7,8,110,3,"Crew moving fast, materials arrived on time.",0,0
+2024-03-05,Framing-A,7,13,62,5,"Confusion on drawings for HVAC, had to stop work.",1,2452
+2024-03-06,Framing-A,7,9,101,4,"Productive day, finished Zone A early.",0,0
+2024-03-07,Framing-A,8,9,103,3,"Team is in good rhythm, no safety issues.",0,0
+2024-03-08,Framing-A,5,11,54,5,"Rework needed on wall framing, incorrect specs.",1,0
+2024-03-09,Framing-A,7,13,70,7,"Rain delay caused slip hazards, slowed down install.",1,0
+2024-03-10,Framing-A,8,10,41,9,"Waiting on RFI response, crew standing around.",1,0
+2024-03-11,Framing-A,7,10,84,9,"Standard progress, nothing to report.",0,0
+2024-03-12,Framing-A,5,9,108,8,"Great weather, slab pour went perfectly.",0,0
+2024-03-13,Framing-A,5,10,65,10,"Rain delay caused slip hazards, slowed down install.",0,1023
+2024-03-14,Framing-A,8,9,114,9,"Productive day, finished Zone A early.",0,0
+2024-03-15,Framing-A,7,8,112,8,"Ahead of schedule, inspection passed.",0,0
+2024-03-16,Framing-A,6,10,80,8,"Weather overcast, work continuing.",0,0
+2024-03-17,Framing-A,8,8,100,7,"Great weather, slab pour went perfectly.",0,0
+2024-03-18,Framing-A,8,11,47,9,"Material delivery late, caused bottleneck.",1,2554
+2024-03-19,Framing-A,5,9,100,8,"Great weather, slab pour went perfectly.",0,0
+2024-03-20,Framing-A,8,9,120,7,"Crew moving fast, materials arrived on time.",0,0
+2024-03-21,Framing-A,8,13,70,9,"Waiting on RFI response, crew standing around.",1,0
+2024-03-22,Framing-A,8,12,53,11,"Confusion on drawings for HVAC, had to stop work.",0,0
+2024-03-23,Framing-A,6,8,101,10,"Ahead of schedule, inspection passed.",0,0
+2024-03-24,Framing-A,5,8,110,9,"Ahead of schedule, inspection passed.",0,0
+2024-03-25,Framing-A,8,13,51,11,"Confusion on drawings for HVAC, had to stop work.",0,0
+2024-03-26,Framing-A,8,8,100,10,"Team is in good rhythm, no safety issues.",0,0
+2024-03-27,Framing-A,7,8,106,9,"Team is in good rhythm, no safety issues.",0,0
+2024-03-28,Framing-A,6,9,112,8,"Great weather, slab pour went perfectly.",0,0
+2024-03-29,Framing-A,7,9,120,7,"Team is in good rhythm, no safety issues.",0,0
+2024-03-30,Framing-A,6,11,57,9,"Rework needed on wall framing, incorrect specs.",1,1836
+2024-03-31,Framing-A,6,10,56,11,"Rework needed on wall framing, incorrect specs.",0,998
+2024-04-01,Framing-A,8,9,113,10,"Productive day, finished Zone A early.",0,0
+2024-04-02,Framing-A,5,8,101,9,"Crew moving fast, materials arrived on time.",0,0
+2024-04-03,Framing-A,5,8,87,9,Routine install in Zone B.,0,0
+2024-04-04,Framing-A,8,8,93,9,"Weather overcast, work continuing.",0,0
+2024-04-05,Framing-A,6,14,45,11,"Waiting on RFI response, crew standing around.",0,0
+2024-04-06,Framing-A,6,10,80,11,"Weather overcast, work continuing.",0,0
+2024-04-07,Framing-A,7,14,41,13,"Crew exhausted from overtime, morale is low.",0,4158
+2024-04-08,Framing-A,8,8,102,12,"Team is in good rhythm, no safety issues.",0,0
+2024-04-09,Framing-A,5,10,93,12,Routine install in Zone B.,0,0
+2024-04-10,Framing-A,7,9,102,11,"Team is in good rhythm, no safety issues.",0,0
+2024-04-11,Framing-A,6,9,101,10,"Ahead of schedule, inspection passed.",0,0
+2024-04-12,Framing-A,7,12,41,12,"Rain delay caused slip hazards, slowed down install.",0,3509
+2024-04-13,Framing-A,6,8,116,11,"Productive day, finished Zone A early.",0,0
+2024-04-14,Framing-A,7,8,82,11,"Standard progress, nothing to report.",0,0
+2024-04-15,Framing-A,5,8,106,10,"Ahead of schedule, inspection passed.",0,0
+2024-04-16,Framing-A,6,9,111,9,"Team is in good rhythm, no safety issues.",0,0
+2024-04-17,Framing-A,8,8,88,9,Routine install in Zone B.,0,0
+2024-04-18,Framing-A,7,8,113,8,"Great weather, slab pour went perfectly.",0,0
+2024-04-19,Framing-A,6,14,70,10,"Crew exhausted from overtime, morale is low.",1,0
+2024-04-20,Framing-A,8,8,106,9,"Productive day, finished Zone A early.",0,0
+2024-04-21,Framing-A,5,8,112,8,"Team is in good rhythm, no safety issues.",0,0
+2024-04-22,Framing-A,6,8,105,7,"Team is in good rhythm, no safety issues.",0,0
+2024-04-23,Framing-A,5,8,107,6,"Team is in good rhythm, no safety issues.",0,0
+2024-04-24,Framing-A,5,10,97,6,"Weather overcast, work continuing.",0,0
+2024-04-25,Framing-A,5,10,48,8,"Rework needed on wall framing, incorrect specs.",0,0
+2024-04-26,Framing-A,6,8,100,7,"Crew moving fast, materials arrived on time.",0,0
+2024-04-27,Framing-A,6,11,51,9,"Crew exhausted from overtime, morale is low.",0,0
+2024-04-28,Framing-A,8,9,118,8,"Productive day, finished Zone A early.",0,0
+2024-04-29,Framing-A,5,9,94,8,"Weather overcast, work continuing.",0,0
+2024-04-30,Framing-A,7,8,98,8,"Crew size normal, steady pace.",0,0
+2024-05-01,Framing-A,7,9,117,7,"Crew moving fast, materials arrived on time.",0,0
+2024-05-02,Framing-A,5,9,118,6,"Ahead of schedule, inspection passed.",0,0
+2024-05-03,Framing-A,7,10,84,6,Routine install in Zone B.,0,0
+2024-05-04,Framing-A,6,8,119,5,"Productive day, finished Zone A early.",0,0
+2024-05-05,Framing-A,7,8,111,4,"Team is in good rhythm, no safety issues.",0,0
+2024-05-06,Framing-A,6,8,80,4,"Standard progress, nothing to report.",0,0
+2024-05-07,Framing-A,7,9,109,3,"Team is in good rhythm, no safety issues.",0,0
+2024-05-08,Framing-A,6,8,91,3,"Safety talk held this morning, no incidents.",0,0
+2024-05-09,Framing-A,8,13,52,5,Argument with sub trade over laydown area.,0,0
+2024-05-10,Framing-A,6,9,81,5,Routine install in Zone B.,0,0
+2024-05-11,Framing-A,8,9,102,4,"Great weather, slab pour went perfectly.",0,0
+2024-05-12,Framing-A,8,10,81,4,"Weather overcast, work continuing.",0,0
+2024-05-13,Framing-A,6,10,86,4,"Weather overcast, work continuing.",0,0
+2024-05-14,Framing-A,7,14,43,6,"Crew exhausted from overtime, morale is low.",0,0
+2024-05-15,Framing-A,6,9,110,5,"Crew moving fast, materials arrived on time.",0,0
+2024-05-16,Framing-A,8,8,101,4,"Productive day, finished Zone A early.",0,0
+2024-05-17,Framing-A,8,12,55,6,"Waiting on RFI response, crew standing around.",1,1558
+2024-05-18,Framing-A,7,9,102,5,"Productive day, finished Zone A early.",0,0
+2024-05-19,Framing-A,8,9,116,4,"Great weather, slab pour went perfectly.",0,0
+2024-05-20,Framing-A,8,9,100,3,"Productive day, finished Zone A early.",0,0
+2024-05-21,Framing-A,5,8,116,2,"Great weather, slab pour went perfectly.",0,0
+2024-05-22,Framing-A,8,9,109,1,"Productive day, finished Zone A early.",0,0
+2024-05-23,Framing-A,6,9,94,1,"Safety talk held this morning, no incidents.",0,0
+2024-05-24,Framing-A,5,9,99,1,"Weather overcast, work continuing.",0,0
+2024-05-25,Framing-A,5,14,45,3,"Waiting on RFI response, crew standing around.",0,2844
+2024-05-26,Framing-A,8,9,110,2,"Ahead of schedule, inspection passed.",0,0
+2024-05-27,Framing-A,5,9,103,1,"Crew moving fast, materials arrived on time.",0,0
+2024-05-28,Framing-A,8,8,108,0,"Crew moving fast, materials arrived on time.",0,0
+2024-05-29,Framing-A,6,9,111,0,"Great weather, slab pour went perfectly.",0,0
+2024-05-30,Framing-A,6,12,67,2,Argument with sub trade over laydown area.,0,0
+2024-05-31,Framing-A,5,9,119,1,"Great weather, slab pour went perfectly.",0,0
+2024-06-01,Framing-A,7,8,111,0,"Team is in good rhythm, no safety issues.",0,0
+2024-06-02,Framing-A,5,13,66,2,"Material delivery late, caused bottleneck.",0,0
+2024-06-03,Framing-A,8,8,110,1,"Productive day, finished Zone A early.",0,0
+2024-06-04,Framing-A,5,9,90,1,"Crew size normal, steady pace.",0,0
+2024-06-05,Framing-A,6,9,106,0,"Team is in good rhythm, no safety issues.",0,0
+2024-06-06,Framing-A,8,11,58,2,Argument with sub trade over laydown area.,0,1328
+2024-06-07,Framing-A,6,9,88,2,"Safety talk held this morning, no incidents.",0,0
+2024-06-08,Framing-A,5,9,106,1,"Productive day, finished Zone A early.",0,0
+2024-06-09,Framing-A,8,13,63,3,"Crew exhausted from overtime, morale is low.",0,2439
+2024-06-10,Framing-A,8,12,47,5,"Confusion on drawings for HVAC, had to stop work.",1,0
+2024-06-11,Framing-A,6,8,101,4,"Productive day, finished Zone A early.",0,0
+2024-06-12,Framing-A,6,8,89,4,Routine install in Zone B.,0,0
+2024-06-13,Framing-A,5,9,112,3,"Productive day, finished Zone A early.",0,0
+2024-06-14,Framing-A,7,9,82,3,"Crew size normal, steady pace.",0,0
+2024-06-15,Framing-A,5,9,105,2,"Ahead of schedule, inspection passed.",0,0
+2024-06-16,Framing-A,8,8,87,2,"Standard progress, nothing to report.",0,0
+2024-06-17,Framing-A,6,13,47,4,"Confusion on drawings for HVAC, had to stop work.",0,0
+2024-06-18,Framing-A,6,8,111,3,"Productive day, finished Zone A early.",0,0
+2024-06-19,Framing-A,8,8,100,2,"Great weather, slab pour went perfectly.",0,0
+2024-06-20,Framing-A,8,11,56,4,"Waiting on RFI response, crew standing around.",0,0
+2024-06-21,Framing-A,6,9,115,3,"Great weather, slab pour went perfectly.",0,0
+2024-06-22,Framing-A,6,8,82,3,"Weather overcast, work continuing.",0,0
+2024-06-23,Framing-A,6,9,104,2,"Crew moving fast, materials arrived on time.",0,0
+2024-06-24,Framing-A,8,13,56,4,"Waiting on RFI response, crew standing around.",0,1112
+2024-06-25,Framing-A,8,8,109,3,"Great weather, slab pour went perfectly.",0,0
+2024-06-26,Framing-A,7,9,110,2,"Team is in good rhythm, no safety issues.",0,0
+2024-06-27,Framing-A,7,10,87,2,Routine install in Zone B.,0,0
+2024-06-28,Framing-A,5,8,112,1,"Productive day, finished Zone A early.",0,0
+2024-06-29,Framing-A,7,11,47,3,"Rework needed on wall framing, incorrect specs.",0,0
+2024-06-30,Framing-A,6,10,99,3,"Crew size normal, steady pace.",0,0
+2024-07-01,Framing-A,8,9,112,2,"Team is in good rhythm, no safety issues.",0,0
+2024-07-02,Framing-A,5,8,103,1,"Team is in good rhythm, no safety issues.",0,0
+2024-07-03,Framing-A,7,9,100,0,"Ahead of schedule, inspection passed.",0,0
+2024-07-04,Framing-A,8,10,70,2,"Rain delay caused slip hazards, slowed down install.",0,967
+2024-07-05,Framing-A,6,9,119,1,"Crew moving fast, materials arrived on time.",0,0
+2024-07-06,Framing-A,6,10,87,1,Routine install in Zone B.,0,0
+2024-07-07,Framing-A,5,8,107,0,"Great weather, slab pour went perfectly.",0,0
+2024-07-08,Framing-A,8,9,120,0,"Great weather, slab pour went perfectly.",0,0
+2024-07-09,Framing-A,7,9,120,0,"Ahead of schedule, inspection passed.",0,0
+2024-07-10,Framing-A,6,10,98,0,Routine install in Zone B.,0,0
+2024-07-11,Framing-A,8,12,58,2,"Rain delay caused slip hazards, slowed down install.",1,4713
+2024-07-12,Framing-A,7,8,114,1,"Crew moving fast, materials arrived on time.",0,0
+2024-07-13,Framing-A,6,9,120,0,"Productive day, finished Zone A early.",0,0
+2024-07-14,Framing-A,5,12,50,2,"Crew exhausted from overtime, morale is low.",0,0
+2024-07-15,Framing-A,5,8,111,1,"Ahead of schedule, inspection passed.",0,0
+2024-07-16,Framing-A,6,8,113,0,"Team is in good rhythm, no safety issues.",0,0
+2024-07-17,Framing-A,6,8,108,0,"Crew moving fast, materials arrived on time.",0,0
+2024-07-18,Framing-A,6,8,101,0,"Team is in good rhythm, no safety issues.",0,0
+2024-07-19,Framing-A,5,8,82,0,"Safety talk held this morning, no incidents.",0,0
+2024-07-20,Framing-A,8,9,110,0,"Great weather, slab pour went perfectly.",0,0
+2024-07-21,Framing-A,5,8,110,0,"Ahead of schedule, inspection passed.",0,0
+2024-07-22,Framing-A,7,8,115,0,"Crew moving fast, materials arrived on time.",0,0
+2024-07-23,Framing-A,8,8,106,0,"Great weather, slab pour went perfectly.",0,0
+2024-07-24,Framing-A,6,8,108,0,"Productive day, finished Zone A early.",0,0
+2024-07-25,Framing-A,6,8,109,0,"Team is in good rhythm, no safety issues.",0,0
+2024-07-26,Framing-A,6,9,110,0,"Productive day, finished Zone A early.",0,0
+2024-07-27,Framing-A,8,14,44,2,"Material delivery late, caused bottleneck.",1,1855
+2024-07-28,Framing-A,5,9,112,1,"Productive day, finished Zone A early.",0,0
+2024-07-29,Framing-A,5,11,56,3,"Waiting on RFI response, crew standing around.",1,2910
+2024-07-30,Framing-A,5,8,102,2,"Team is in good rhythm, no safety issues.",0,0
+2024-07-31,Framing-A,6,8,109,1,"Team is in good rhythm, no safety issues.",0,0
+2024-08-01,Framing-A,6,13,64,3,"Rework needed on wall framing, incorrect specs.",0,0
+2024-08-02,Framing-A,5,10,83,3,"Weather overcast, work continuing.",0,0
+2024-08-03,Framing-A,5,8,117,2,"Great weather, slab pour went perfectly.",0,0
+2024-08-04,Framing-A,8,8,111,1,"Ahead of schedule, inspection passed.",0,0
+2024-08-05,Framing-A,8,10,93,1,"Standard progress, nothing to report.",0,0
+2024-08-06,Framing-A,6,9,106,0,"Team is in good rhythm, no safety issues.",0,0
+2024-08-07,Framing-A,7,8,109,0,"Crew moving fast, materials arrived on time.",0,0
+2024-08-08,Framing-A,7,9,82,0,"Weather overcast, work continuing.",0,0
+2024-08-09,Framing-A,6,12,43,2,"Crew exhausted from overtime, morale is low.",0,0
+2024-08-10,Framing-A,7,8,109,1,"Team is in good rhythm, no safety issues.",0,0
+2024-08-11,Framing-A,7,11,59,3,"Confusion on drawings for HVAC, had to stop work.",0,0
+2024-08-12,Framing-A,6,9,106,2,"Team is in good rhythm, no safety issues.",0,0
+2024-08-13,Framing-A,6,8,116,1,"Team is in good rhythm, no safety issues.",0,0
+2024-08-14,Framing-A,8,8,109,0,"Crew moving fast, materials arrived on time.",0,0
+2024-08-15,Framing-A,8,9,100,0,"Team is in good rhythm, no safety issues.",0,0
+2024-08-16,Framing-A,7,8,102,0,"Team is in good rhythm, no safety issues.",0,0
+2024-08-17,Framing-A,6,9,104,0,"Ahead of schedule, inspection passed.",0,0
+2024-08-18,Framing-A,6,8,112,0,"Ahead of schedule, inspection passed.",0,0
+2024-08-19,Framing-A,5,9,117,0,"Productive day, finished Zone A early.",0,0
+2024-08-20,Framing-A,7,9,92,0,"Weather overcast, work continuing.",0,0
+2024-08-21,Framing-A,8,8,85,0,"Weather overcast, work continuing.",0,0
+2024-08-22,Framing-A,8,9,96,0,"Safety talk held this morning, no incidents.",0,0
+2024-08-23,Framing-A,8,14,43,2,"Rain delay caused slip hazards, slowed down install.",0,0
+2024-08-24,Framing-A,7,8,83,2,"Standard progress, nothing to report.",0,0
+2024-08-25,Framing-A,8,9,109,1,"Crew moving fast, materials arrived on time.",0,0
+2024-08-26,Framing-A,6,11,67,3,"Confusion on drawings for HVAC, had to stop work.",1,0
+2024-08-27,Framing-A,7,11,50,5,"Material delivery late, caused bottleneck.",0,0
+2024-08-28,Framing-A,8,9,115,4,"Great weather, slab pour went perfectly.",0,0
+2024-08-29,Framing-A,6,8,114,3,"Crew moving fast, materials arrived on time.",0,0
+2024-08-30,Framing-A,5,9,85,3,"Crew size normal, steady pace.",0,0
+2024-08-31,Framing-A,8,8,106,2,"Productive day, finished Zone A early.",0,0
+2024-09-01,Framing-A,7,8,109,1,"Ahead of schedule, inspection passed.",0,0
+2024-09-02,Framing-A,5,8,90,1,Routine install in Zone B.,0,0
+2024-09-03,Framing-A,5,8,93,1,"Weather overcast, work continuing.",0,0
+2024-09-04,Framing-A,6,10,96,1,"Standard progress, nothing to report.",0,0
+2024-09-05,Framing-A,7,9,119,0,"Team is in good rhythm, no safety issues.",0,0
+2024-09-06,Framing-A,8,9,103,0,"Crew moving fast, materials arrived on time.",0,0
+2024-09-07,Framing-A,8,14,55,2,"Confusion on drawings for HVAC, had to stop work.",0,1224
+2024-09-08,Framing-A,7,9,91,2,Routine install in Zone B.,0,0
+2024-09-09,Framing-A,7,9,120,1,"Ahead of schedule, inspection passed.",0,0
+2024-09-10,Framing-A,7,9,100,0,"Team is in good rhythm, no safety issues.",0,0
+2024-09-11,Framing-A,5,8,111,0,"Great weather, slab pour went perfectly.",0,0
+2024-09-12,Framing-A,7,9,88,0,"Weather overcast, work continuing.",0,0
+2024-09-13,Framing-A,7,8,102,0,"Great weather, slab pour went perfectly.",0,0
+2024-09-14,Framing-A,8,8,106,0,"Crew moving fast, materials arrived on time.",0,0
+2024-09-15,Framing-A,5,11,49,2,"Rain delay caused slip hazards, slowed down install.",1,3899
+2024-09-16,Framing-A,8,8,82,2,"Crew size normal, steady pace.",0,0
+2024-09-17,Framing-A,6,8,111,1,"Crew moving fast, materials arrived on time.",0,0
+2024-09-18,Framing-A,8,8,90,1,"Standard progress, nothing to report.",0,0
+2024-09-19,Framing-A,7,8,89,1,"Crew size normal, steady pace.",0,0
+2024-09-20,Framing-A,5,9,107,0,"Team is in good rhythm, no safety issues.",0,0
+2024-09-21,Framing-A,8,9,83,0,Routine install in Zone B.,0,0
+2024-09-22,Framing-A,6,13,64,2,"Rain delay caused slip hazards, slowed down install.",1,3985
+2024-09-23,Framing-A,8,9,104,1,"Team is in good rhythm, no safety issues.",0,0
+2024-09-24,Framing-A,8,9,100,0,"Crew moving fast, materials arrived on time.",0,0
+2024-09-25,Framing-A,6,8,117,0,"Great weather, slab pour went perfectly.",0,0
+2024-09-26,Framing-A,5,9,100,0,"Team is in good rhythm, no safety issues.",0,0
+2024-09-27,Framing-A,6,8,86,0,"Safety talk held this morning, no incidents.",0,0
+2024-09-28,Framing-A,6,9,102,0,"Great weather, slab pour went perfectly.",0,0
+2024-09-29,Framing-A,5,9,114,0,"Productive day, finished Zone A early.",0,0
+2024-09-30,Framing-A,7,8,104,0,"Team is in good rhythm, no safety issues.",0,0
+2024-10-01,Framing-A,6,9,99,0,"Weather overcast, work continuing.",0,0
+2024-10-02,Framing-A,6,9,105,0,"Productive day, finished Zone A early.",0,0
+2024-10-03,Framing-A,5,9,112,0,"Productive day, finished Zone A early.",0,0
+2024-10-04,Framing-A,5,9,100,0,"Productive day, finished Zone A early.",0,0
+2024-10-05,Framing-A,5,8,96,0,"Crew size normal, steady pace.",0,0
+2024-10-06,Framing-A,7,8,91,0,"Crew size normal, steady pace.",0,0
+2024-10-07,Framing-A,5,8,103,0,"Great weather, slab pour went perfectly.",0,0
+2024-10-08,Framing-A,7,9,92,0,"Standard progress, nothing to report.",0,0
+2024-10-09,Framing-A,8,8,101,0,"Great weather, slab pour went perfectly.",0,0
+2024-10-10,Framing-A,7,8,103,0,"Productive day, finished Zone A early.",0,0
+2024-10-11,Framing-A,6,9,104,0,"Productive day, finished Zone A early.",0,0
+2024-10-12,Framing-A,7,10,94,0,"Crew size normal, steady pace.",0,0
+2024-10-13,Framing-A,8,13,69,2,"Confusion on drawings for HVAC, had to stop work.",0,0
+2024-10-14,Framing-A,7,9,110,1,"Productive day, finished Zone A early.",0,0
+2024-10-15,Framing-A,8,9,94,1,"Safety talk held this morning, no incidents.",0,0
+2024-10-16,Framing-A,5,8,83,1,"Weather overcast, work continuing.",0,0
+2024-10-17,Framing-A,6,8,116,0,"Team is in good rhythm, no safety issues.",0,0
+2024-10-18,Framing-A,7,8,102,0,"Great weather, slab pour went perfectly.",0,0
+2024-10-19,Framing-A,5,9,118,0,"Team is in good rhythm, no safety issues.",0,0
+2024-10-20,Framing-A,8,8,118,0,"Crew moving fast, materials arrived on time.",0,0
+2024-10-21,Framing-A,5,8,117,0,"Ahead of schedule, inspection passed.",0,0
+2024-10-22,Framing-A,5,8,118,0,"Crew moving fast, materials arrived on time.",0,0
+2024-10-23,Framing-A,7,9,113,0,"Great weather, slab pour went perfectly.",0,0
+2024-10-24,Framing-A,6,8,105,0,"Team is in good rhythm, no safety issues.",0,0
+2024-10-25,Framing-A,8,8,110,0,"Team is in good rhythm, no safety issues.",0,0
+2024-10-26,Framing-A,6,9,108,0,"Productive day, finished Zone A early.",0,0
+2024-10-27,Framing-A,7,9,107,0,"Crew moving fast, materials arrived on time.",0,0
+2024-10-28,Framing-A,7,13,64,2,"Crew exhausted from overtime, morale is low.",0,2077
+2024-10-29,Framing-A,5,9,104,1,"Great weather, slab pour went perfectly.",0,0
+2024-10-30,Framing-A,6,13,41,3,"Rain delay caused slip hazards, slowed down install.",0,1329
+2024-10-31,Framing-A,5,8,80,3,"Safety talk held this morning, no incidents.",0,0
+2024-11-01,Framing-A,7,8,118,2,"Great weather, slab pour went perfectly.",0,0
+2024-11-02,Framing-A,6,8,88,2,Routine install in Zone B.,0,0
+2024-11-03,Framing-A,5,13,62,4,"Rework needed on wall framing, incorrect specs.",0,1087
+2024-11-04,Framing-A,6,12,61,6,"Rework needed on wall framing, incorrect specs.",0,2118
+2024-11-05,Framing-A,6,8,107,5,"Ahead of schedule, inspection passed.",0,0
+2024-11-06,Framing-A,8,9,102,4,"Productive day, finished Zone A early.",0,0
+2024-11-07,Framing-A,6,10,61,6,Argument with sub trade over laydown area.,0,0
+2024-11-08,Framing-A,8,10,87,6,"Standard progress, nothing to report.",0,0
+2024-11-09,Framing-A,7,8,118,5,"Crew moving fast, materials arrived on time.",0,0
+2024-11-10,Framing-A,8,8,111,4,"Crew moving fast, materials arrived on time.",0,0
+2024-11-11,Framing-A,7,9,114,3,"Productive day, finished Zone A early.",0,0
+2024-11-12,Framing-A,5,8,88,3,Routine install in Zone B.,0,0
+2024-11-13,Framing-A,7,13,62,5,"Material delivery late, caused bottleneck.",1,0
+2024-11-14,Framing-A,5,10,90,5,"Safety talk held this morning, no incidents.",0,0
+2024-11-15,Framing-A,5,10,88,5,Routine install in Zone B.,0,0
+2024-11-16,Framing-A,6,8,107,4,"Great weather, slab pour went perfectly.",0,0
+2024-11-17,Framing-A,5,8,110,3,"Ahead of schedule, inspection passed.",0,0
+2024-11-18,Framing-A,8,10,94,3,"Weather overcast, work continuing.",0,0
+2024-11-19,Framing-A,7,9,111,2,"Crew moving fast, materials arrived on time.",0,0
+2024-11-20,Framing-A,6,8,102,1,"Great weather, slab pour went perfectly.",0,0
+2024-11-21,Framing-A,5,9,100,0,"Ahead of schedule, inspection passed.",0,0
+2024-11-22,Framing-A,7,8,87,0,"Standard progress, nothing to report.",0,0
+2024-11-23,Framing-A,8,9,115,0,"Great weather, slab pour went perfectly.",0,0
+2024-11-24,Framing-A,7,9,100,0,"Weather overcast, work continuing.",0,0
+2024-11-25,Framing-A,7,9,84,0,"Safety talk held this morning, no incidents.",0,0
+2024-11-26,Framing-A,5,8,81,0,"Weather overcast, work continuing.",0,0
+2024-11-27,Framing-A,6,9,118,0,"Crew moving fast, materials arrived on time.",0,0
+2024-11-28,Framing-A,5,9,81,0,"Weather overcast, work continuing.",0,0
+2024-11-29,Framing-A,6,9,98,0,"Standard progress, nothing to report.",0,0
+2024-11-30,Framing-A,6,8,118,0,"Productive day, finished Zone A early.",0,0
+2024-12-01,Framing-A,5,9,100,0,"Great weather, slab pour went perfectly.",0,0
+2024-12-02,Framing-A,8,9,117,0,"Team is in good rhythm, no safety issues.",0,0
+2024-12-03,Framing-A,6,8,109,0,"Crew moving fast, materials arrived on time.",0,0
+2024-12-04,Framing-A,7,14,53,2,"Waiting on RFI response, crew standing around.",1,0
+2024-12-05,Framing-A,6,10,92,2,"Crew size normal, steady pace.",0,0
+2024-12-06,Framing-A,5,8,99,2,"Standard progress, nothing to report.",0,0
+2024-12-07,Framing-A,7,8,104,1,"Crew moving fast, materials arrived on time.",0,0
+2024-12-08,Framing-A,8,8,111,0,"Team is in good rhythm, no safety issues.",0,0
+2024-12-09,Framing-A,5,9,101,0,"Great weather, slab pour went perfectly.",0,0
+2024-12-10,Framing-A,5,9,83,0,"Weather overcast, work continuing.",0,0
+2024-12-11,Framing-A,7,8,120,0,"Great weather, slab pour went perfectly.",0,0
+2024-12-12,Framing-A,7,9,100,0,"Standard progress, nothing to report.",0,0
+2024-12-13,Framing-A,6,8,107,0,"Crew moving fast, materials arrived on time.",0,0
+2024-12-14,Framing-A,6,9,83,0,Routine install in Zone B.,0,0
+2024-12-15,Framing-A,5,8,101,0,"Ahead of schedule, inspection passed.",0,0
+2024-12-16,Framing-A,7,14,65,2,"Confusion on drawings for HVAC, had to stop work.",0,4460
+2024-12-17,Framing-A,6,12,42,4,"Crew exhausted from overtime, morale is low.",1,0
+2024-12-18,Framing-A,5,8,102,3,"Crew moving fast, materials arrived on time.",0,0
+2024-12-19,Framing-A,6,9,115,2,"Crew moving fast, materials arrived on time.",0,0
+2024-12-20,Framing-A,6,11,51,4,"Rework needed on wall framing, incorrect specs.",0,4364
+2024-12-21,Framing-A,7,10,84,4,"Safety talk held this morning, no incidents.",0,0
+2024-12-22,Framing-A,8,9,119,3,"Team is in good rhythm, no safety issues.",0,0
+2024-12-23,Framing-A,6,8,82,3,Routine install in Zone B.,0,0
+2024-12-24,Framing-A,7,9,103,2,"Productive day, finished Zone A early.",0,0
+2024-12-25,Framing-A,8,8,82,2,"Standard progress, nothing to report.",0,0
+2024-12-26,Framing-A,5,9,103,1,"Team is in good rhythm, no safety issues.",0,0
+2024-12-27,Framing-A,8,10,92,1,"Weather overcast, work continuing.",0,0
+2024-12-28,Framing-A,5,13,66,3,"Crew exhausted from overtime, morale is low.",0,0
+2024-12-29,Framing-A,7,9,118,2,"Productive day, finished Zone A early.",0,0
+2024-12-30,Framing-A,7,10,93,2,"Crew size normal, steady pace.",0,0
+2024-01-01,MEP-2,7,8,99,0,"Weather overcast, work continuing.",0,0
+2024-01-02,MEP-2,8,8,103,0,"Team is in good rhythm, no safety issues.",0,0
+2024-01-03,MEP-2,6,8,104,0,"Ahead of schedule, inspection passed.",0,0
+2024-01-04,MEP-2,5,9,91,0,"Crew size normal, steady pace.",0,0
+2024-01-05,MEP-2,7,9,117,0,"Team is in good rhythm, no safety issues.",0,0
+2024-01-06,MEP-2,7,11,65,2,"Waiting on RFI response, crew standing around.",0,0
+2024-01-07,MEP-2,6,8,85,2,"Crew size normal, steady pace.",0,0
+2024-01-08,MEP-2,8,9,111,1,"Great weather, slab pour went perfectly.",0,0
+2024-01-09,MEP-2,5,14,41,3,"Rain delay caused slip hazards, slowed down install.",0,3634
+2024-01-10,MEP-2,8,8,111,2,"Great weather, slab pour went perfectly.",0,0
+2024-01-11,MEP-2,5,8,89,2,"Standard progress, nothing to report.",0,0
+2024-01-12,MEP-2,8,8,110,1,"Crew moving fast, materials arrived on time.",0,0
+2024-01-13,MEP-2,5,14,59,3,Argument with sub trade over laydown area.,0,0
+2024-01-14,MEP-2,6,13,55,5,"Rain delay caused slip hazards, slowed down install.",0,0
+2024-01-15,MEP-2,8,10,96,5,"Crew size normal, steady pace.",0,0
+2024-01-16,MEP-2,5,9,116,4,"Great weather, slab pour went perfectly.",0,0
+2024-01-17,MEP-2,8,9,117,3,"Productive day, finished Zone A early.",0,0
+2024-01-18,MEP-2,6,8,112,2,"Productive day, finished Zone A early.",0,0
+2024-01-19,MEP-2,5,9,97,2,"Safety talk held this morning, no incidents.",0,0
+2024-01-20,MEP-2,5,8,110,1,"Ahead of schedule, inspection passed.",0,0
+2024-01-21,MEP-2,7,8,114,0,"Team is in good rhythm, no safety issues.",0,0
+2024-01-22,MEP-2,5,10,86,0,"Standard progress, nothing to report.",0,0
+2024-01-23,MEP-2,7,9,88,0,Routine install in Zone B.,0,0
+2024-01-24,MEP-2,7,12,64,2,"Waiting on RFI response, crew standing around.",0,0
+2024-01-25,MEP-2,6,9,108,1,"Team is in good rhythm, no safety issues.",0,0
+2024-01-26,MEP-2,7,9,108,0,"Team is in good rhythm, no safety issues.",0,0
+2024-01-27,MEP-2,8,8,118,0,"Productive day, finished Zone A early.",0,0
+2024-01-28,MEP-2,8,10,89,0,"Safety talk held this morning, no incidents.",0,0
+2024-01-29,MEP-2,5,8,83,0,"Crew size normal, steady pace.",0,0
+2024-01-30,MEP-2,5,10,83,0,"Crew size normal, steady pace.",0,0
+2024-01-31,MEP-2,7,8,102,0,"Great weather, slab pour went perfectly.",0,0
+2024-02-01,MEP-2,5,9,114,0,"Crew moving fast, materials arrived on time.",0,0
+2024-02-02,MEP-2,7,8,103,0,"Great weather, slab pour went perfectly.",0,0
+2024-02-03,MEP-2,8,8,103,0,"Great weather, slab pour went perfectly.",0,0
+2024-02-04,MEP-2,8,12,57,2,"Crew exhausted from overtime, morale is low.",1,811
+2024-02-05,MEP-2,8,9,117,1,"Team is in good rhythm, no safety issues.",0,0
+2024-02-06,MEP-2,5,9,100,0,"Ahead of schedule, inspection passed.",0,0
+2024-02-07,MEP-2,8,10,57,2,"Waiting on RFI response, crew standing around.",1,909
+2024-02-08,MEP-2,8,12,40,4,"Material delivery late, caused bottleneck.",0,0
+2024-02-09,MEP-2,8,8,104,3,"Great weather, slab pour went perfectly.",0,0
+2024-02-10,MEP-2,7,8,117,2,"Crew moving fast, materials arrived on time.",0,0
+2024-02-11,MEP-2,7,10,93,2,Routine install in Zone B.,0,0
+2024-02-12,MEP-2,8,9,107,1,"Team is in good rhythm, no safety issues.",0,0
+2024-02-13,MEP-2,8,8,111,0,"Ahead of schedule, inspection passed.",0,0
+2024-02-14,MEP-2,8,8,119,0,"Crew moving fast, materials arrived on time.",0,0
+2024-02-15,MEP-2,6,8,93,0,"Safety talk held this morning, no incidents.",0,0
+2024-02-16,MEP-2,6,9,115,0,"Productive day, finished Zone A early.",0,0
+2024-02-17,MEP-2,8,9,115,0,"Productive day, finished Zone A early.",0,0
+2024-02-18,MEP-2,6,9,96,0,"Standard progress, nothing to report.",0,0
+2024-02-19,MEP-2,7,8,91,0,"Standard progress, nothing to report.",0,0
+2024-02-20,MEP-2,8,13,40,2,"Waiting on RFI response, crew standing around.",1,2951
+2024-02-21,MEP-2,5,9,114,1,"Team is in good rhythm, no safety issues.",0,0
+2024-02-22,MEP-2,6,8,104,0,"Productive day, finished Zone A early.",0,0
+2024-02-23,MEP-2,8,10,57,2,"Waiting on RFI response, crew standing around.",0,0
+2024-02-24,MEP-2,7,8,88,2,"Safety talk held this morning, no incidents.",0,0
+2024-02-25,MEP-2,7,8,84,2,"Standard progress, nothing to report.",0,0
+2024-02-26,MEP-2,5,14,70,4,"Crew exhausted from overtime, morale is low.",0,2574
+2024-02-27,MEP-2,6,10,80,4,"Crew size normal, steady pace.",0,0
+2024-02-28,MEP-2,7,8,105,3,"Ahead of schedule, inspection passed.",0,0
+2024-02-29,MEP-2,5,8,103,2,"Great weather, slab pour went perfectly.",0,0
+2024-03-01,MEP-2,8,13,65,4,"Material delivery late, caused bottleneck.",0,2603
+2024-03-02,MEP-2,6,8,110,3,"Team is in good rhythm, no safety issues.",0,0
+2024-03-03,MEP-2,6,8,108,2,"Ahead of schedule, inspection passed.",0,0
+2024-03-04,MEP-2,7,8,99,2,"Safety talk held this morning, no incidents.",0,0
+2024-03-05,MEP-2,5,8,117,1,"Productive day, finished Zone A early.",0,0
+2024-03-06,MEP-2,8,9,110,0,"Crew moving fast, materials arrived on time.",0,0
+2024-03-07,MEP-2,7,9,118,0,"Crew moving fast, materials arrived on time.",0,0
+2024-03-08,MEP-2,7,10,82,0,"Safety talk held this morning, no incidents.",0,0
+2024-03-09,MEP-2,5,12,56,2,"Material delivery late, caused bottleneck.",0,4895
+2024-03-10,MEP-2,8,11,61,4,"Crew exhausted from overtime, morale is low.",0,3472
+2024-03-11,MEP-2,7,8,116,3,"Productive day, finished Zone A early.",0,0
+2024-03-12,MEP-2,8,9,120,2,"Great weather, slab pour went perfectly.",0,0
+2024-03-13,MEP-2,5,13,51,4,"Waiting on RFI response, crew standing around.",0,0
+2024-03-14,MEP-2,6,10,87,4,"Crew size normal, steady pace.",0,0
+2024-03-15,MEP-2,8,9,85,4,"Crew size normal, steady pace.",0,0
+2024-03-16,MEP-2,8,9,110,3,"Productive day, finished Zone A early.",0,0
+2024-03-17,MEP-2,7,12,42,5,"Rain delay caused slip hazards, slowed down install.",0,0
+2024-03-18,MEP-2,5,8,103,4,"Crew moving fast, materials arrived on time.",0,0
+2024-03-19,MEP-2,6,10,65,6,"Rework needed on wall framing, incorrect specs.",0,0
+2024-03-20,MEP-2,8,13,61,8,"Rework needed on wall framing, incorrect specs.",1,1312
+2024-03-21,MEP-2,7,8,110,7,"Great weather, slab pour went perfectly.",0,0
+2024-03-22,MEP-2,5,9,97,7,"Crew size normal, steady pace.",0,0
+2024-03-23,MEP-2,6,8,86,7,Routine install in Zone B.,0,0
+2024-03-24,MEP-2,8,8,110,6,"Team is in good rhythm, no safety issues.",0,0
+2024-03-25,MEP-2,6,8,117,5,"Crew moving fast, materials arrived on time.",0,0
+2024-03-26,MEP-2,8,8,100,4,"Crew moving fast, materials arrived on time.",0,0
+2024-03-27,MEP-2,8,8,112,3,"Team is in good rhythm, no safety issues.",0,0
+2024-03-28,MEP-2,5,8,85,3,"Weather overcast, work continuing.",0,0
+2024-03-29,MEP-2,8,8,104,2,"Team is in good rhythm, no safety issues.",0,0
+2024-03-30,MEP-2,5,9,96,2,Routine install in Zone B.,0,0
+2024-03-31,MEP-2,7,9,113,1,"Crew moving fast, materials arrived on time.",0,0
+2024-04-01,MEP-2,5,8,103,0,"Ahead of schedule, inspection passed.",0,0
+2024-04-02,MEP-2,7,9,82,0,Routine install in Zone B.,0,0
+2024-04-03,MEP-2,5,13,46,2,"Crew exhausted from overtime, morale is low.",0,1210
+2024-04-04,MEP-2,5,8,83,2,"Crew size normal, steady pace.",0,0
+2024-04-05,MEP-2,5,10,95,2,"Weather overcast, work continuing.",0,0
+2024-04-06,MEP-2,8,9,120,1,"Team is in good rhythm, no safety issues.",0,0
+2024-04-07,MEP-2,7,8,119,0,"Ahead of schedule, inspection passed.",0,0
+2024-04-08,MEP-2,5,8,118,0,"Great weather, slab pour went perfectly.",0,0
+2024-04-09,MEP-2,7,12,40,2,"Waiting on RFI response, crew standing around.",1,4674
+2024-04-10,MEP-2,7,9,109,1,"Great weather, slab pour went perfectly.",0,0
+2024-04-11,MEP-2,8,14,47,3,Argument with sub trade over laydown area.,1,0
+2024-04-12,MEP-2,6,9,107,2,"Productive day, finished Zone A early.",0,0
+2024-04-13,MEP-2,7,9,113,1,"Team is in good rhythm, no safety issues.",0,0
+2024-04-14,MEP-2,8,9,104,0,"Great weather, slab pour went perfectly.",0,0
+2024-04-15,MEP-2,7,11,51,2,"Confusion on drawings for HVAC, had to stop work.",0,0
+2024-04-16,MEP-2,8,9,86,2,Routine install in Zone B.,0,0
+2024-04-17,MEP-2,6,8,109,1,"Crew moving fast, materials arrived on time.",0,0
+2024-04-18,MEP-2,5,9,107,0,"Productive day, finished Zone A early.",0,0
+2024-04-19,MEP-2,7,8,113,0,"Great weather, slab pour went perfectly.",0,0
+2024-04-20,MEP-2,7,9,115,0,"Great weather, slab pour went perfectly.",0,0
+2024-04-21,MEP-2,5,8,100,0,Routine install in Zone B.,0,0
+2024-04-22,MEP-2,7,8,114,0,"Team is in good rhythm, no safety issues.",0,0
+2024-04-23,MEP-2,7,9,118,0,"Team is in good rhythm, no safety issues.",0,0
+2024-04-24,MEP-2,8,9,119,0,"Crew moving fast, materials arrived on time.",0,0
+2024-04-25,MEP-2,5,8,117,0,"Productive day, finished Zone A early.",0,0
+2024-04-26,MEP-2,6,14,43,2,"Rain delay caused slip hazards, slowed down install.",0,1597
+2024-04-27,MEP-2,7,8,117,1,"Crew moving fast, materials arrived on time.",0,0
+2024-04-28,MEP-2,5,8,113,0,"Great weather, slab pour went perfectly.",0,0
+2024-04-29,MEP-2,5,10,97,0,Routine install in Zone B.,0,0
+2024-04-30,MEP-2,8,9,115,0,"Crew moving fast, materials arrived on time.",0,0
+2024-05-01,MEP-2,7,12,51,2,"Rework needed on wall framing, incorrect specs.",0,4139
+2024-05-02,MEP-2,8,12,57,4,"Confusion on drawings for HVAC, had to stop work.",1,1079
+2024-05-03,MEP-2,6,9,100,3,"Crew moving fast, materials arrived on time.",0,0
+2024-05-04,MEP-2,8,9,100,3,Routine install in Zone B.,0,0
+2024-05-05,MEP-2,6,9,88,3,"Weather overcast, work continuing.",0,0
+2024-05-06,MEP-2,6,9,120,2,"Great weather, slab pour went perfectly.",0,0
+2024-05-07,MEP-2,5,8,112,1,"Productive day, finished Zone A early.",0,0
+2024-05-08,MEP-2,8,9,97,1,"Crew size normal, steady pace.",0,0
+2024-05-09,MEP-2,7,8,113,0,"Productive day, finished Zone A early.",0,0
+2024-05-10,MEP-2,6,10,81,0,"Crew size normal, steady pace.",0,0
+2024-05-11,MEP-2,7,9,112,0,"Productive day, finished Zone A early.",0,0
+2024-05-12,MEP-2,8,8,100,0,"Great weather, slab pour went perfectly.",0,0
+2024-05-13,MEP-2,6,11,64,2,"Rework needed on wall framing, incorrect specs.",1,0
+2024-05-14,MEP-2,5,9,82,2,"Weather overcast, work continuing.",0,0
+2024-05-15,MEP-2,6,8,113,1,"Great weather, slab pour went perfectly.",0,0
+2024-05-16,MEP-2,7,10,91,1,"Safety talk held this morning, no incidents.",0,0
+2024-05-17,MEP-2,5,8,109,0,"Ahead of schedule, inspection passed.",0,0
+2024-05-18,MEP-2,7,9,119,0,"Crew moving fast, materials arrived on time.",0,0
+2024-05-19,MEP-2,8,10,44,2,Argument with sub trade over laydown area.,1,1023
+2024-05-20,MEP-2,8,11,48,4,"Material delivery late, caused bottleneck.",0,914
+2024-05-21,MEP-2,7,10,81,4,"Weather overcast, work continuing.",0,0
+2024-05-22,MEP-2,8,9,96,4,"Standard progress, nothing to report.",0,0
+2024-05-23,MEP-2,8,9,110,3,"Productive day, finished Zone A early.",0,0
+2024-05-24,MEP-2,7,8,109,2,"Great weather, slab pour went perfectly.",0,0
+2024-05-25,MEP-2,7,9,105,1,"Productive day, finished Zone A early.",0,0
+2024-05-26,MEP-2,6,11,62,3,"Material delivery late, caused bottleneck.",0,0
+2024-05-27,MEP-2,7,10,93,3,"Crew size normal, steady pace.",0,0
+2024-05-28,MEP-2,5,8,118,2,"Ahead of schedule, inspection passed.",0,0
+2024-05-29,MEP-2,5,8,87,2,"Weather overcast, work continuing.",0,0
+2024-05-30,MEP-2,5,12,60,4,"Crew exhausted from overtime, morale is low.",0,0
+2024-05-31,MEP-2,8,8,101,3,"Crew moving fast, materials arrived on time.",0,0
+2024-06-01,MEP-2,5,9,81,3,Routine install in Zone B.,0,0
+2024-06-02,MEP-2,8,8,86,3,"Crew size normal, steady pace.",0,0
+2024-06-03,MEP-2,5,10,67,5,"Material delivery late, caused bottleneck.",0,3565
+2024-06-04,MEP-2,8,11,47,7,"Crew exhausted from overtime, morale is low.",1,4618
+2024-06-05,MEP-2,7,9,117,6,"Productive day, finished Zone A early.",0,0
+2024-06-06,MEP-2,6,9,99,6,"Crew size normal, steady pace.",0,0
+2024-06-07,MEP-2,7,9,110,5,"Crew moving fast, materials arrived on time.",0,0
+2024-06-08,MEP-2,8,8,110,4,"Great weather, slab pour went perfectly.",0,0
+2024-06-09,MEP-2,5,9,91,4,Routine install in Zone B.,0,0
+2024-06-10,MEP-2,6,8,118,3,"Ahead of schedule, inspection passed.",0,0
+2024-06-11,MEP-2,8,8,112,2,"Crew moving fast, materials arrived on time.",0,0
+2024-06-12,MEP-2,7,9,90,2,"Standard progress, nothing to report.",0,0
+2024-06-13,MEP-2,8,9,101,1,"Team is in good rhythm, no safety issues.",0,0
+2024-06-14,MEP-2,7,8,114,0,"Great weather, slab pour went perfectly.",0,0
+2024-06-15,MEP-2,5,9,103,0,"Ahead of schedule, inspection passed.",0,0
+2024-06-16,MEP-2,8,10,95,0,"Crew size normal, steady pace.",0,0
+2024-06-17,MEP-2,8,10,84,0,"Weather overcast, work continuing.",0,0
+2024-06-18,MEP-2,6,9,85,0,"Standard progress, nothing to report.",0,0
+2024-06-19,MEP-2,7,8,113,0,"Productive day, finished Zone A early.",0,0
+2024-06-20,MEP-2,6,10,90,0,"Standard progress, nothing to report.",0,0
+2024-06-21,MEP-2,5,8,93,0,"Standard progress, nothing to report.",0,0
+2024-06-22,MEP-2,6,8,97,0,"Safety talk held this morning, no incidents.",0,0
+2024-06-23,MEP-2,7,8,112,0,"Team is in good rhythm, no safety issues.",0,0
+2024-06-24,MEP-2,5,14,46,2,"Confusion on drawings for HVAC, had to stop work.",0,0
+2024-06-25,MEP-2,7,11,54,4,"Waiting on RFI response, crew standing around.",0,0
+2024-06-26,MEP-2,8,9,107,3,"Team is in good rhythm, no safety issues.",0,0
+2024-06-27,MEP-2,8,8,81,3,"Crew size normal, steady pace.",0,0
+2024-06-28,MEP-2,8,9,105,2,"Great weather, slab pour went perfectly.",0,0
+2024-06-29,MEP-2,8,8,84,2,Routine install in Zone B.,0,0
+2024-06-30,MEP-2,6,8,90,2,"Safety talk held this morning, no incidents.",0,0
+2024-07-01,MEP-2,8,8,103,1,"Ahead of schedule, inspection passed.",0,0
+2024-07-02,MEP-2,6,8,111,0,"Ahead of schedule, inspection passed.",0,0
+2024-07-03,MEP-2,8,9,81,0,"Standard progress, nothing to report.",0,0
+2024-07-04,MEP-2,5,9,102,0,"Crew moving fast, materials arrived on time.",0,0
+2024-07-05,MEP-2,5,8,119,0,"Ahead of schedule, inspection passed.",0,0
+2024-07-06,MEP-2,6,14,50,2,"Rain delay caused slip hazards, slowed down install.",0,0
+2024-07-07,MEP-2,5,11,47,4,"Crew exhausted from overtime, morale is low.",0,2884
+2024-07-08,MEP-2,8,12,49,6,"Rain delay caused slip hazards, slowed down install.",1,0
+2024-07-09,MEP-2,7,8,106,5,"Ahead of schedule, inspection passed.",0,0
+2024-07-10,MEP-2,6,8,87,5,"Crew size normal, steady pace.",0,0
+2024-07-11,MEP-2,7,8,103,4,"Team is in good rhythm, no safety issues.",0,0
+2024-07-12,MEP-2,8,10,67,6,Argument with sub trade over laydown area.,0,0
+2024-07-13,MEP-2,5,8,94,6,"Standard progress, nothing to report.",0,0
+2024-07-14,MEP-2,7,9,102,5,"Team is in good rhythm, no safety issues.",0,0
+2024-07-15,MEP-2,6,10,84,5,"Weather overcast, work continuing.",0,0
+2024-07-16,MEP-2,7,10,97,5,"Crew size normal, steady pace.",0,0
+2024-07-17,MEP-2,6,8,95,5,"Standard progress, nothing to report.",0,0
+2024-07-18,MEP-2,8,11,65,7,Argument with sub trade over laydown area.,1,687
+2024-07-19,MEP-2,7,8,108,6,"Crew moving fast, materials arrived on time.",0,0
+2024-07-20,MEP-2,8,9,108,5,"Ahead of schedule, inspection passed.",0,0
+2024-07-21,MEP-2,8,9,100,4,"Ahead of schedule, inspection passed.",0,0
+2024-07-22,MEP-2,6,8,83,4,"Crew size normal, steady pace.",0,0
+2024-07-23,MEP-2,6,9,118,3,"Crew moving fast, materials arrived on time.",0,0
+2024-07-24,MEP-2,7,9,82,3,"Safety talk held this morning, no incidents.",0,0
+2024-07-25,MEP-2,5,9,100,2,"Team is in good rhythm, no safety issues.",0,0
+2024-07-26,MEP-2,6,8,103,1,"Productive day, finished Zone A early.",0,0
+2024-07-27,MEP-2,7,9,110,0,"Crew moving fast, materials arrived on time.",0,0
+2024-07-28,MEP-2,6,9,82,0,Routine install in Zone B.,0,0
+2024-07-29,MEP-2,7,11,47,2,"Waiting on RFI response, crew standing around.",0,0
+2024-07-30,MEP-2,8,8,98,2,"Crew size normal, steady pace.",0,0
+2024-07-31,MEP-2,7,13,56,4,Argument with sub trade over laydown area.,0,4290
+2024-08-01,MEP-2,8,12,62,6,Argument with sub trade over laydown area.,0,0
+2024-08-02,MEP-2,7,9,112,5,"Productive day, finished Zone A early.",0,0
+2024-08-03,MEP-2,8,13,49,7,"Confusion on drawings for HVAC, had to stop work.",1,0
+2024-08-04,MEP-2,5,10,94,7,"Standard progress, nothing to report.",0,0
+2024-08-05,MEP-2,7,9,93,7,"Standard progress, nothing to report.",0,0
+2024-08-06,MEP-2,5,11,59,9,"Rework needed on wall framing, incorrect specs.",0,1975
+2024-08-07,MEP-2,5,9,115,8,"Productive day, finished Zone A early.",0,0
+2024-08-08,MEP-2,7,14,70,10,"Material delivery late, caused bottleneck.",0,0
+2024-08-09,MEP-2,7,8,95,10,"Weather overcast, work continuing.",0,0
+2024-08-10,MEP-2,6,10,98,10,"Safety talk held this morning, no incidents.",0,0
+2024-08-11,MEP-2,6,9,99,10,"Crew size normal, steady pace.",0,0
+2024-08-12,MEP-2,5,8,92,10,"Safety talk held this morning, no incidents.",0,0
+2024-08-13,MEP-2,6,9,98,10,"Weather overcast, work continuing.",0,0
+2024-08-14,MEP-2,8,10,99,10,"Safety talk held this morning, no incidents.",0,0
+2024-08-15,MEP-2,6,12,49,12,"Waiting on RFI response, crew standing around.",0,0
+2024-08-16,MEP-2,5,10,84,12,"Standard progress, nothing to report.",0,0
+2024-08-17,MEP-2,5,12,53,14,Argument with sub trade over laydown area.,0,3111
+2024-08-18,MEP-2,5,8,100,14,"Crew size normal, steady pace.",0,0
+2024-08-19,MEP-2,7,8,83,14,"Weather overcast, work continuing.",0,0
+2024-08-20,MEP-2,6,9,112,13,"Productive day, finished Zone A early.",0,0
+2024-08-21,MEP-2,5,9,118,12,"Crew moving fast, materials arrived on time.",0,0
+2024-08-22,MEP-2,7,14,67,14,"Waiting on RFI response, crew standing around.",1,0
+2024-08-23,MEP-2,7,8,100,13,"Productive day, finished Zone A early.",0,0
+2024-08-24,MEP-2,8,8,112,12,"Ahead of schedule, inspection passed.",0,0
+2024-08-25,MEP-2,5,8,110,11,"Team is in good rhythm, no safety issues.",0,0
+2024-08-26,MEP-2,8,8,107,10,"Productive day, finished Zone A early.",0,0
+2024-08-27,MEP-2,7,8,111,9,"Crew moving fast, materials arrived on time.",0,0
+2024-08-28,MEP-2,5,9,100,9,"Standard progress, nothing to report.",0,0
+2024-08-29,MEP-2,5,10,53,11,"Rain delay caused slip hazards, slowed down install.",0,4789
+2024-08-30,MEP-2,7,8,91,11,"Standard progress, nothing to report.",0,0
+2024-08-31,MEP-2,5,14,44,13,Argument with sub trade over laydown area.,0,0
+2024-09-01,MEP-2,5,10,86,13,"Weather overcast, work continuing.",0,0
+2024-09-02,MEP-2,6,9,100,12,"Ahead of schedule, inspection passed.",0,0
+2024-09-03,MEP-2,7,8,108,11,"Ahead of schedule, inspection passed.",0,0
+2024-09-04,MEP-2,8,10,97,11,"Crew size normal, steady pace.",0,0
+2024-09-05,MEP-2,8,11,46,13,"Confusion on drawings for HVAC, had to stop work.",0,0
+2024-09-06,MEP-2,8,9,113,12,"Productive day, finished Zone A early.",0,0
+2024-09-07,MEP-2,5,9,120,11,"Team is in good rhythm, no safety issues.",0,0
+2024-09-08,MEP-2,6,8,116,10,"Team is in good rhythm, no safety issues.",0,0
+2024-09-09,MEP-2,5,8,86,10,"Weather overcast, work continuing.",0,0
+2024-09-10,MEP-2,6,9,101,9,"Ahead of schedule, inspection passed.",0,0
+2024-09-11,MEP-2,5,9,83,9,Routine install in Zone B.,0,0
+2024-09-12,MEP-2,6,9,108,8,"Ahead of schedule, inspection passed.",0,0
+2024-09-13,MEP-2,8,8,110,7,"Ahead of schedule, inspection passed.",0,0
+2024-09-14,MEP-2,5,8,96,7,"Safety talk held this morning, no incidents.",0,0
+2024-09-15,MEP-2,6,8,108,6,"Team is in good rhythm, no safety issues.",0,0
+2024-09-16,MEP-2,7,8,107,5,"Crew moving fast, materials arrived on time.",0,0
+2024-09-17,MEP-2,7,8,103,4,"Productive day, finished Zone A early.",0,0
+2024-09-18,MEP-2,7,11,58,6,"Rain delay caused slip hazards, slowed down install.",1,2119
+2024-09-19,MEP-2,5,8,108,5,"Team is in good rhythm, no safety issues.",0,0
+2024-09-20,MEP-2,8,8,115,4,"Great weather, slab pour went perfectly.",0,0
+2024-09-21,MEP-2,6,8,117,3,"Productive day, finished Zone A early.",0,0
+2024-09-22,MEP-2,8,8,111,2,"Ahead of schedule, inspection passed.",0,0
+2024-09-23,MEP-2,5,11,59,4,"Crew exhausted from overtime, morale is low.",0,3282
+2024-09-24,MEP-2,6,8,90,4,"Standard progress, nothing to report.",0,0
+2024-09-25,MEP-2,6,9,116,3,"Productive day, finished Zone A early.",0,0
+2024-09-26,MEP-2,5,14,46,5,"Material delivery late, caused bottleneck.",0,0
+2024-09-27,MEP-2,7,9,112,4,"Productive day, finished Zone A early.",0,0
+2024-09-28,MEP-2,8,10,54,6,"Material delivery late, caused bottleneck.",0,0
+2024-09-29,MEP-2,8,9,106,5,"Team is in good rhythm, no safety issues.",0,0
+2024-09-30,MEP-2,8,8,105,4,"Crew moving fast, materials arrived on time.",0,0
+2024-10-01,MEP-2,5,9,117,3,"Great weather, slab pour went perfectly.",0,0
+2024-10-02,MEP-2,7,10,62,5,Argument with sub trade over laydown area.,0,0
+2024-10-03,MEP-2,6,8,87,5,"Weather overcast, work continuing.",0,0
+2024-10-04,MEP-2,7,11,42,7,"Waiting on RFI response, crew standing around.",1,3826
+2024-10-05,MEP-2,7,11,52,9,"Rain delay caused slip hazards, slowed down install.",1,2087
+2024-10-06,MEP-2,6,9,113,8,"Productive day, finished Zone A early.",0,0
+2024-10-07,MEP-2,8,8,110,7,"Great weather, slab pour went perfectly.",0,0
+2024-10-08,MEP-2,5,14,67,9,"Crew exhausted from overtime, morale is low.",0,2100
+2024-10-09,MEP-2,8,9,107,8,"Great weather, slab pour went perfectly.",0,0
+2024-10-10,MEP-2,7,9,80,8,Routine install in Zone B.,0,0
+2024-10-11,MEP-2,8,9,113,7,"Great weather, slab pour went perfectly.",0,0
+2024-10-12,MEP-2,7,9,101,6,"Crew moving fast, materials arrived on time.",0,0
+2024-10-13,MEP-2,5,8,90,6,"Safety talk held this morning, no incidents.",0,0
+2024-10-14,MEP-2,5,8,120,5,"Great weather, slab pour went perfectly.",0,0
+2024-10-15,MEP-2,7,8,109,4,"Team is in good rhythm, no safety issues.",0,0
+2024-10-16,MEP-2,6,10,67,6,Argument with sub trade over laydown area.,0,0
+2024-10-17,MEP-2,7,10,63,8,Argument with sub trade over laydown area.,0,1416
+2024-10-18,MEP-2,5,8,102,7,"Crew moving fast, materials arrived on time.",0,0
+2024-10-19,MEP-2,6,10,98,7,"Weather overcast, work continuing.",0,0
+2024-10-20,MEP-2,5,9,116,6,"Productive day, finished Zone A early.",0,0
+2024-10-21,MEP-2,8,12,48,8,"Crew exhausted from overtime, morale is low.",0,2481
+2024-10-22,MEP-2,8,14,54,10,"Rain delay caused slip hazards, slowed down install.",0,0
+2024-10-23,MEP-2,6,10,92,10,Routine install in Zone B.,0,0
+2024-10-24,MEP-2,6,14,64,12,"Waiting on RFI response, crew standing around.",0,2459
+2024-10-25,MEP-2,5,8,110,11,"Crew moving fast, materials arrived on time.",0,0
+2024-10-26,MEP-2,6,9,114,10,"Great weather, slab pour went perfectly.",0,0
+2024-10-27,MEP-2,8,9,88,10,"Weather overcast, work continuing.",0,0
+2024-10-28,MEP-2,8,8,95,10,Routine install in Zone B.,0,0
+2024-10-29,MEP-2,5,9,84,10,"Crew size normal, steady pace.",0,0
+2024-10-30,MEP-2,7,12,40,12,"Confusion on drawings for HVAC, had to stop work.",0,4211
+2024-10-31,MEP-2,8,8,115,11,"Crew moving fast, materials arrived on time.",0,0
+2024-11-01,MEP-2,6,8,103,10,"Team is in good rhythm, no safety issues.",0,0
+2024-11-02,MEP-2,6,9,101,9,"Ahead of schedule, inspection passed.",0,0
+2024-11-03,MEP-2,5,8,85,9,Routine install in Zone B.,0,0
+2024-11-04,MEP-2,7,8,116,8,"Team is in good rhythm, no safety issues.",0,0
+2024-11-05,MEP-2,5,13,66,10,"Waiting on RFI response, crew standing around.",0,2929
+2024-11-06,MEP-2,8,14,40,12,"Confusion on drawings for HVAC, had to stop work.",0,0
+2024-11-07,MEP-2,6,14,54,14,"Rain delay caused slip hazards, slowed down install.",1,685
+2024-11-08,MEP-2,7,8,119,13,"Crew moving fast, materials arrived on time.",0,0
+2024-11-09,MEP-2,8,8,105,12,"Crew moving fast, materials arrived on time.",0,0
+2024-11-10,MEP-2,6,14,51,14,"Material delivery late, caused bottleneck.",1,3427
+2024-11-11,MEP-2,5,8,109,13,"Team is in good rhythm, no safety issues.",0,0
+2024-11-12,MEP-2,6,9,106,12,"Crew moving fast, materials arrived on time.",0,0
+2024-11-13,MEP-2,7,9,104,11,"Crew moving fast, materials arrived on time.",0,0
+2024-11-14,MEP-2,5,9,92,11,"Crew size normal, steady pace.",0,0
+2024-11-15,MEP-2,6,9,112,10,"Crew moving fast, materials arrived on time.",0,0
+2024-11-16,MEP-2,7,9,109,9,"Team is in good rhythm, no safety issues.",0,0
+2024-11-17,MEP-2,6,9,119,8,"Crew moving fast, materials arrived on time.",0,0
+2024-11-18,MEP-2,5,8,117,7,"Crew moving fast, materials arrived on time.",0,0
+2024-11-19,MEP-2,5,8,104,6,"Great weather, slab pour went perfectly.",0,0
+2024-11-20,MEP-2,8,9,82,6,"Crew size normal, steady pace.",0,0
+2024-11-21,MEP-2,7,14,48,8,"Material delivery late, caused bottleneck.",0,0
+2024-11-22,MEP-2,8,8,99,8,"Crew size normal, steady pace.",0,0
+2024-11-23,MEP-2,5,9,115,7,"Crew moving fast, materials arrived on time.",0,0
+2024-11-24,MEP-2,7,10,84,7,"Crew size normal, steady pace.",0,0
+2024-11-25,MEP-2,6,8,93,7,Routine install in Zone B.,0,0
+2024-11-26,MEP-2,5,14,61,9,"Crew exhausted from overtime, morale is low.",0,666
+2024-11-27,MEP-2,5,11,48,11,"Rain delay caused slip hazards, slowed down install.",1,2875
+2024-11-28,MEP-2,5,14,44,13,Argument with sub trade over laydown area.,1,0
+2024-11-29,MEP-2,8,8,114,12,"Team is in good rhythm, no safety issues.",0,0
+2024-11-30,MEP-2,7,14,64,14,"Confusion on drawings for HVAC, had to stop work.",0,903
+2024-12-01,MEP-2,6,8,109,13,"Team is in good rhythm, no safety issues.",0,0
+2024-12-02,MEP-2,7,9,101,12,"Great weather, slab pour went perfectly.",0,0
+2024-12-03,MEP-2,8,10,98,12,Routine install in Zone B.,0,0
+2024-12-04,MEP-2,6,9,93,12,"Standard progress, nothing to report.",0,0
+2024-12-05,MEP-2,7,8,101,11,"Ahead of schedule, inspection passed.",0,0
+2024-12-06,MEP-2,6,8,109,10,"Great weather, slab pour went perfectly.",0,0
+2024-12-07,MEP-2,7,9,105,9,"Team is in good rhythm, no safety issues.",0,0
+2024-12-08,MEP-2,5,9,86,9,"Standard progress, nothing to report.",0,0
+2024-12-09,MEP-2,8,9,112,8,"Crew moving fast, materials arrived on time.",0,0
+2024-12-10,MEP-2,6,14,65,10,"Confusion on drawings for HVAC, had to stop work.",1,0
+2024-12-11,MEP-2,7,11,53,12,"Confusion on drawings for HVAC, had to stop work.",1,2221
+2024-12-12,MEP-2,6,8,97,12,Routine install in Zone B.,0,0
+2024-12-13,MEP-2,7,12,47,14,"Rain delay caused slip hazards, slowed down install.",0,2009
+2024-12-14,MEP-2,6,9,101,13,"Great weather, slab pour went perfectly.",0,0
+2024-12-15,MEP-2,7,9,91,13,Routine install in Zone B.,0,0
+2024-12-16,MEP-2,7,8,104,12,"Great weather, slab pour went perfectly.",0,0
+2024-12-17,MEP-2,8,9,108,11,"Productive day, finished Zone A early.",0,0
+2024-12-18,MEP-2,5,13,52,13,"Rain delay caused slip hazards, slowed down install.",0,0
+2024-12-19,MEP-2,8,8,104,12,"Productive day, finished Zone A early.",0,0
+2024-12-20,MEP-2,6,10,99,12,"Weather overcast, work continuing.",0,0
+2024-12-21,MEP-2,8,8,109,11,"Productive day, finished Zone A early.",0,0
+2024-12-22,MEP-2,8,10,56,13,"Confusion on drawings for HVAC, had to stop work.",1,2093
+2024-12-23,MEP-2,5,9,103,12,"Productive day, finished Zone A early.",0,0
+2024-12-24,MEP-2,6,13,50,14,"Rework needed on wall framing, incorrect specs.",1,0
+2024-12-25,MEP-2,5,9,118,13,"Crew moving fast, materials arrived on time.",0,0
+2024-12-26,MEP-2,7,10,91,13,"Crew size normal, steady pace.",0,0
+2024-12-27,MEP-2,5,8,113,12,"Productive day, finished Zone A early.",0,0
+2024-12-28,MEP-2,8,9,116,11,"Great weather, slab pour went perfectly.",0,0
+2024-12-29,MEP-2,6,8,95,11,"Standard progress, nothing to report.",0,0
+2024-12-30,MEP-2,5,9,109,10,"Productive day, finished Zone A early.",0,0
